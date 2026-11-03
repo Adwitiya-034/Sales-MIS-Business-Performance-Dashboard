@@ -1,0 +1,601 @@
+Order ID,Order Date,Customer ID,Customer Name,Region,City,Salesperson,Product ID,Product Name,Category,Quantity,Unit Price (INR),Discount Rate,Payment Mode,Order Status
+SO0533,01-Jan-2026,C123,Aarav Sharma,Central,Bhopal,Ananya Singh,P010,Office Chair,Furniture,2,6200,0%,Net Banking,Completed
+SO0360,01-Jan-2026,C016,Aditi Sen,East,Guwahati,Sourav Das,P005,Webcam,Electronics,2,2200,0%,Debit Card,Pending
+SO0027,01-Jan-2026,C125,Aditya Mehta,West,Pune,Karan Mehta,P010,Office Chair,Furniture,2,6200,10%,Cash,Returned
+SO0340,01-Jan-2026,C037,Aishwarya Rao,West,Ahmedabad,Karan Mehta,P004,Laptop Stand,Accessories,1,1250,0%,UPI,Completed
+SO0223,02-Jan-2026,C083,Akash Jain,Central,Bhopal,Ananya Singh,P016,Laptop Bag,Accessories,3,1100,0%,Debit Card,Completed
+SO0437,02-Jan-2026,C046,Akanksha Saha,Central,Nagpur,Rohan Verma,P018,Whiteboard,Office Supplies,8,2400,12%,Cash,Completed
+SO0140,02-Jan-2026,C136,Aman Bhowmik,South,Bengaluru,Rahul Menon,P003,USB-C Hub,Accessories,1,1850,10%,UPI,Returned
+SO0339,02-Jan-2026,C086,Amrita Joshi,West,Mumbai,Ishita Shah,P018,Whiteboard,Office Supplies,2,2400,12%,UPI,Completed
+SO0475,03-Jan-2026,C038,Ananya Ghosh,South,Hyderabad,Priya Nair,P017,Pen Set,Stationery,1,120,0%,Cash,Completed
+SO0428,03-Jan-2026,C062,Arjun Kumar,South,Hyderabad,Rahul Menon,P016,Laptop Bag,Accessories,6,1100,0%,Debit Card,Completed
+SO0260,03-Jan-2026,C124,Arpita Reddy,South,Hyderabad,Rahul Menon,P012,Desk Lamp,Electronics,1,850,10%,Cash,Completed
+SO0299,03-Jan-2026,C126,Ashish Agarwal,West,Mumbai,Ishita Shah,P013,Printer,Electronics,8,8900,8%,Net Banking,Completed
+SO0508,03-Jan-2026,C142,Avni Paul,East,Kolkata,Moumita Roy,P003,USB-C Hub,Accessories,2,1850,10%,UPI,Completed
+SO0540,04-Jan-2026,C119,Ayush Majumdar,West,Mumbai,Karan Mehta,P014,Monitor 24 inch,Electronics,2,11200,12%,Debit Card,Completed
+SO0515,04-Jan-2026,C068,Bhavna Yadav,South,Chennai,Priya Nair,P011,Study Table,Furniture,2,7800,12%,Cash,Completed
+SO0324,04-Jan-2026,C045,Chandan Chatterjee,East,Bhubaneswar,Sourav Das,P013,Printer,Electronics,6,8900,8%,Cash,Completed
+SO0228,04-Jan-2026,C132,Deepak Singh,East,Bhubaneswar,Sourav Das,P006,Bluetooth Speaker,Electronics,3,2800,10%,Net Banking,Pending
+SO0382,04-Jan-2026,C026,Deepika Iyer,Central,Nagpur,Ananya Singh,P004,Laptop Stand,Accessories,2,1250,0%,Cash,Completed
+SO0070,04-Jan-2026,C040,Dev Malhotra,West,Pune,Ishita Shah,P014,Monitor 24 inch,Electronics,8,11200,10%,Net Banking,Pending
+SO0128,05-Jan-2026,C122,Diya Mitra,South,Chennai,Priya Nair,P005,Webcam,Electronics,4,2200,8%,UPI,Completed
+SO0177,05-Jan-2026,C086,Amrita Joshi,East,Kolkata,Moumita Roy,P008,Power Bank,Electronics,4,1450,10%,Cash,Completed
+SO0583,05-Jan-2026,C081,Farhan Dasgupta,East,Guwahati,Moumita Roy,P008,Power Bank,Electronics,10,1450,8%,UPI,Returned
+SO0483,06-Jan-2026,C147,Gaurav Thakur,South,Bengaluru,Priya Nair,P019,File Organizer,Office Supplies,3,420,0%,UPI,Completed
+SO0361,06-Jan-2026,C096,Isha Banerjee,South,Hyderabad,Priya Nair,P004,Laptop Stand,Accessories,5,1250,12%,UPI,Completed
+SO0148,06-Jan-2026,C103,Ishita Verma,East,Kolkata,Moumita Roy,P012,Desk Lamp,Electronics,1,850,12%,Net Banking,Completed
+SO0355,07-Jan-2026,C136,Aman Bhowmik,East,Guwahati,Sourav Das,P001,Wireless Mouse,Accessories,6,650,12%,Net Banking,Completed
+SO0139,07-Jan-2026,C090,Jaya Menon,Central,Nagpur,Ananya Singh,P001,Wireless Mouse,Accessories,1,650,10%,Debit Card,Completed
+SO0199,08-Jan-2026,C128,Kabir Kapoor,North,Delhi,Neha Kapoor,P007,Headphones,Electronics,4,1750,5%,UPI,Completed
+SO0389,08-Jan-2026,C051,Kajal Basu,South,Bengaluru,Priya Nair,P002,Keyboard,Accessories,1,950,5%,Debit Card,Completed
+SO0392,08-Jan-2026,C053,Karan Ganguly,West,Mumbai,Ishita Shah,P019,File Organizer,Office Supplies,5,420,0%,Credit Card,Completed
+SO0351,08-Jan-2026,C039,Kavita Prasad,West,Ahmedabad,Karan Mehta,P006,Bluetooth Speaker,Electronics,2,2800,0%,Net Banking,Completed
+SO0591,08-Jan-2026,C039,Kavita Prasad,East,Bhubaneswar,Moumita Roy,P010,Office Chair,Furniture,2,6200,12%,Debit Card,Pending
+SO0530,09-Jan-2026,C114,Kunal Mukherjee,East,Bhubaneswar,Moumita Roy,P015,HDMI Cable,Accessories,10,350,8%,Cash,Cancelled
+SO0259,09-Jan-2026,C039,Kavita Prasad,North,Jaipur,Aarav Sharma,P001,Wireless Mouse,Accessories,2,650,12%,UPI,Completed
+SO0187,09-Jan-2026,C136,Aman Bhowmik,Central,Bhopal,Ananya Singh,P012,Desk Lamp,Electronics,2,850,12%,Credit Card,Completed
+SO0243,09-Jan-2026,C013,Lakshmi Gupta,West,Ahmedabad,Ishita Shah,P008,Power Bank,Electronics,1,1450,0%,Net Banking,Completed
+SO0445,09-Jan-2026,C144,Madhuri Nair,East,Bhubaneswar,Sourav Das,P020,External SSD 1TB,Electronics,6,7200,10%,Credit Card,Completed
+SO0352,09-Jan-2026,C072,Manish Sinha,Central,Nagpur,Rohan Verma,P010,Office Chair,Furniture,3,6200,8%,UPI,Completed
+SO0239,09-Jan-2026,C096,Isha Banerjee,East,Bhubaneswar,Sourav Das,P005,Webcam,Electronics,4,2200,10%,Net Banking,Completed
+SO0039,10-Jan-2026,C092,Meera Sarkar,East,Guwahati,Sourav Das,P014,Monitor 24 inch,Electronics,1,11200,3%,UPI,Completed
+SO0164,10-Jan-2026,C043,Mohan Lahiri,East,Guwahati,Sourav Das,P020,External SSD 1TB,Electronics,2,7200,0%,Cash,Completed
+SO0005,12-Jan-2026,C093,Nandini Kundu,West,Ahmedabad,Ishita Shah,P013,Printer,Electronics,1,8900,3%,Cash,Completed
+SO0080,12-Jan-2026,C147,Gaurav Thakur,North,Jaipur,Neha Kapoor,P005,Webcam,Electronics,3,2200,12%,UPI,Completed
+SO0029,13-Jan-2026,C018,Nikhil Roy,Central,Indore,Rohan Verma,P002,Keyboard,Accessories,8,950,0%,UPI,Completed
+SO0125,13-Jan-2026,C056,Nisha Bose,East,Kolkata,Sourav Das,P019,File Organizer,Office Supplies,1,420,12%,Credit Card,Completed
+SO0206,13-Jan-2026,C068,Bhavna Yadav,East,Bhubaneswar,Moumita Roy,P010,Office Chair,Furniture,3,6200,12%,Credit Card,Completed
+SO0096,14-Jan-2026,C062,Arjun Kumar,South,Chennai,Priya Nair,P010,Office Chair,Furniture,2,6200,10%,UPI,Completed
+SO0447,14-Jan-2026,C058,Pallavi Patel,North,Jaipur,Neha Kapoor,P007,Headphones,Electronics,3,1750,12%,Net Banking,Pending
+SO0404,14-Jan-2026,C037,Aishwarya Rao,South,Bengaluru,Priya Nair,P011,Study Table,Furniture,2,7800,8%,Net Banking,Pending
+SO0037,14-Jan-2026,C042,Pankaj Mishra,North,Jaipur,Neha Kapoor,P009,Notebook Pack,Stationery,1,180,3%,Debit Card,Completed
+SO0582,14-Jan-2026,C028,Pranav Chowdhury,West,Ahmedabad,Ishita Shah,P003,USB-C Hub,Accessories,2,1850,3%,Debit Card,Completed
+SO0142,14-Jan-2026,C114,Kunal Mukherjee,South,Bengaluru,Priya Nair,P003,USB-C Hub,Accessories,2,1850,10%,Cash,Completed
+SO0108,15-Jan-2026,C044,Priya Bhattacharya,East,Bhubaneswar,Moumita Roy,P014,Monitor 24 inch,Electronics,1,11200,8%,Credit Card,Completed
+SO0017,15-Jan-2026,C033,Rahul Biswas,South,Hyderabad,Priya Nair,P003,USB-C Hub,Accessories,4,1850,12%,Cash,Completed
+SO0249,15-Jan-2026,C085,Raj Das,Central,Indore,Ananya Singh,P018,Whiteboard,Office Supplies,3,2400,5%,Credit Card,Completed
+SO0082,17-Jan-2026,C078,Riya Dutta,West,Pune,Ishita Shah,P019,File Organizer,Office Supplies,3,420,0%,Cash,Completed
+SO0174,17-Jan-2026,C001,Rohan Shah,North,Chandigarh,Aarav Sharma,P017,Pen Set,Stationery,3,120,10%,Net Banking,Completed
+SO0596,17-Jan-2026,C098,Rohit Pillai,South,Chennai,Rahul Menon,P011,Study Table,Furniture,6,7800,0%,UPI,Completed
+SO0452,18-Jan-2026,C085,Raj Das,Central,Bhopal,Ananya Singh,P018,Whiteboard,Office Supplies,3,2400,0%,Credit Card,Completed
+SO0290,18-Jan-2026,C063,Sakshi Saxena,East,Kolkata,Sourav Das,P001,Wireless Mouse,Accessories,5,650,10%,Credit Card,Completed
+SO0551,18-Jan-2026,C130,Sameer Datta,Central,Bhopal,Ananya Singh,P010,Office Chair,Furniture,5,6200,8%,UPI,Completed
+SO0201,19-Jan-2026,C081,Farhan Dasgupta,North,Delhi,Neha Kapoor,P014,Monitor 24 inch,Electronics,3,11200,0%,Credit Card,Completed
+SO0318,19-Jan-2026,C098,Rohit Pillai,South,Chennai,Priya Nair,P004,Laptop Stand,Accessories,1,1250,3%,Credit Card,Pending
+SO0088,19-Jan-2026,C032,Shreya Mondal,North,Delhi,Neha Kapoor,P020,External SSD 1TB,Electronics,4,7200,8%,Net Banking,Cancelled
+SO0111,19-Jan-2026,C099,Sneha Sharma,West,Pune,Karan Mehta,P014,Monitor 24 inch,Electronics,4,11200,5%,Credit Card,Completed
+SO0238,19-Jan-2026,C121,Sourav Sen,North,Chandigarh,Neha Kapoor,P003,USB-C Hub,Accessories,3,1850,0%,UPI,Cancelled
+SO0021,19-Jan-2026,C125,Aditya Mehta,North,Delhi,Aarav Sharma,P002,Keyboard,Accessories,5,950,0%,Debit Card,Completed
+SO0208,19-Jan-2026,C033,Rahul Biswas,West,Ahmedabad,Karan Mehta,P018,Whiteboard,Office Supplies,2,2400,8%,UPI,Completed
+SO0419,20-Jan-2026,C026,Deepika Iyer,North,Chandigarh,Aarav Sharma,P015,HDMI Cable,Accessories,10,350,3%,UPI,Completed
+SO0270,20-Jan-2026,C126,Ashish Agarwal,East,Guwahati,Moumita Roy,P011,Study Table,Furniture,1,7800,3%,Net Banking,Completed
+SO0147,20-Jan-2026,C104,Suman Mehta,East,Guwahati,Moumita Roy,P019,File Organizer,Office Supplies,2,420,10%,UPI,Completed
+SO0058,21-Jan-2026,C105,Swati Rao,South,Bengaluru,Priya Nair,P013,Printer,Electronics,4,8900,10%,Net Banking,Completed
+SO0557,21-Jan-2026,C069,Tanvi Jain,West,Ahmedabad,Ishita Shah,P012,Desk Lamp,Electronics,3,850,5%,UPI,Completed
+SO0183,21-Jan-2026,C079,Varun Saha,West,Ahmedabad,Ishita Shah,P018,Whiteboard,Office Supplies,2,2400,0%,Debit Card,Completed
+SO0197,21-Jan-2026,C044,Priya Bhattacharya,East,Kolkata,Moumita Roy,P005,Webcam,Electronics,3,2200,8%,Cash,Completed
+SO0131,21-Jan-2026,C084,Vikram Bhowmik,East,Guwahati,Sourav Das,P003,USB-C Hub,Accessories,1,1850,8%,Cash,Completed
+SO0083,22-Jan-2026,C098,Rohit Pillai,South,Bengaluru,Rahul Menon,P020,External SSD 1TB,Electronics,3,7200,8%,Cash,Completed
+SO0327,22-Jan-2026,C080,Vivek Joshi,East,Kolkata,Sourav Das,P005,Webcam,Electronics,3,2200,5%,UPI,Completed
+SO0135,22-Jan-2026,C144,Madhuri Nair,North,Chandigarh,Aarav Sharma,P012,Desk Lamp,Electronics,5,850,8%,Cash,Completed
+SO0578,22-Jan-2026,C004,Yash Ghosh,North,Jaipur,Aarav Sharma,P008,Power Bank,Electronics,8,1450,0%,Debit Card,Pending
+SO0315,22-Jan-2026,C110,Zoya Kumar,East,Guwahati,Sourav Das,P002,Keyboard,Accessories,2,950,3%,Credit Card,Completed
+SO0337,23-Jan-2026,C063,Sakshi Saxena,Central,Indore,Rohan Verma,P012,Desk Lamp,Electronics,1,850,8%,Cash,Completed
+SO0459,23-Jan-2026,C105,Swati Rao,North,Delhi,Aarav Sharma,P009,Notebook Pack,Stationery,3,180,8%,Debit Card,Completed
+SO0502,23-Jan-2026,C024,Abhishek Reddy,East,Bhubaneswar,Moumita Roy,P013,Printer,Electronics,2,8900,0%,UPI,Completed
+SO0547,24-Jan-2026,C033,Rahul Biswas,Central,Indore,Rohan Verma,P002,Keyboard,Accessories,2,950,0%,UPI,Completed
+SO0107,24-Jan-2026,C084,Vikram Bhowmik,West,Mumbai,Ishita Shah,P015,HDMI Cable,Accessories,1,350,3%,UPI,Pending
+SO0554,25-Jan-2026,C052,Anjali Agarwal,Central,Nagpur,Rohan Verma,P002,Keyboard,Accessories,5,950,0%,UPI,Completed
+SO0342,25-Jan-2026,C061,Aparna Paul,Central,Bhopal,Ananya Singh,P003,USB-C Hub,Accessories,3,1850,0%,Credit Card,Completed
+SO0209,25-Jan-2026,C131,Debjani Majumdar,West,Pune,Karan Mehta,P018,Whiteboard,Office Supplies,8,2400,12%,Cash,Completed
+SO0079,26-Jan-2026,C071,Indrani Yadav,South,Chennai,Priya Nair,P012,Desk Lamp,Electronics,1,850,0%,Credit Card,Completed
+SO0007,26-Jan-2026,C019,Kaushik Chatterjee,West,Pune,Karan Mehta,P012,Desk Lamp,Electronics,1,850,3%,Debit Card,Completed
+SO0313,26-Jan-2026,C052,Anjali Agarwal,West,Mumbai,Ishita Shah,P006,Bluetooth Speaker,Electronics,2,2800,0%,Net Banking,Returned
+SO0520,26-Jan-2026,C067,Moumita Singh,South,Bengaluru,Priya Nair,P009,Notebook Pack,Stationery,3,180,10%,Debit Card,Completed
+SO0104,26-Jan-2026,C121,Sourav Sen,Central,Indore,Rohan Verma,P005,Webcam,Electronics,2,2200,10%,UPI,Cancelled
+SO0171,26-Jan-2026,C121,Sourav Sen,East,Kolkata,Sourav Das,P002,Keyboard,Accessories,2,950,12%,Credit Card,Completed
+SO0151,27-Jan-2026,C046,Akanksha Saha,South,Chennai,Priya Nair,P006,Bluetooth Speaker,Electronics,3,2800,12%,UPI,Completed
+SO0471,28-Jan-2026,C068,Bhavna Yadav,South,Hyderabad,Priya Nair,P009,Notebook Pack,Stationery,5,180,0%,Credit Card,Pending
+SO0045,28-Jan-2026,C049,Partha Iyer,Central,Indore,Ananya Singh,P011,Study Table,Furniture,2,7800,8%,Cash,Completed
+SO0555,28-Jan-2026,C135,Ritwik Malhotra,West,Mumbai,Ishita Shah,P002,Keyboard,Accessories,3,950,12%,Net Banking,Completed
+SO0436,28-Jan-2026,C128,Kabir Kapoor,West,Mumbai,Ishita Shah,P015,HDMI Cable,Accessories,2,350,8%,Credit Card,Cancelled
+SO0383,28-Jan-2026,C147,Gaurav Thakur,Central,Bhopal,Ananya Singh,P018,Whiteboard,Office Supplies,6,2400,5%,Net Banking,Completed
+SO0545,29-Jan-2026,C102,Sayan Mitra,South,Hyderabad,Rahul Menon,P011,Study Table,Furniture,1,7800,12%,UPI,Completed
+SO0455,30-Jan-2026,C131,Debjani Majumdar,West,Pune,Karan Mehta,P001,Wireless Mouse,Accessories,6,650,12%,Cash,Completed
+SO0493,31-Jan-2026,C040,Dev Malhotra,Central,Bhopal,Ananya Singh,P007,Headphones,Electronics,4,1750,3%,UPI,Completed
+SO0489,31-Jan-2026,C134,Sohini Dasgupta,North,Chandigarh,Aarav Sharma,P020,External SSD 1TB,Electronics,3,7200,0%,Net Banking,Pending
+SO0098,31-Jan-2026,C063,Sakshi Saxena,South,Chennai,Rahul Menon,P017,Pen Set,Stationery,4,120,5%,Net Banking,Completed
+SO0241,31-Jan-2026,C077,Subhajit Thakur,South,Hyderabad,Rahul Menon,P017,Pen Set,Stationery,1,120,0%,UPI,Completed
+SO0020,31-Jan-2026,C002,Tanmoy Banerjee,South,Bengaluru,Priya Nair,P011,Study Table,Furniture,1,7800,8%,Credit Card,Completed
+SO0348,01-Feb-2026,C150,Trisha Verma,North,Delhi,Aarav Sharma,P005,Webcam,Electronics,1,2200,5%,UPI,Completed
+SO0018,02-Feb-2026,C139,Bidisha Menon,West,Ahmedabad,Ishita Shah,P009,Notebook Pack,Stationery,3,180,8%,Credit Card,Completed
+SO0364,02-Feb-2026,C047,Chaitali Kapoor,South,Hyderabad,Priya Nair,P019,File Organizer,Office Supplies,2,420,12%,UPI,Cancelled
+SO0032,03-Feb-2026,C019,Kaushik Chatterjee,East,Bhubaneswar,Moumita Roy,P003,USB-C Hub,Accessories,1,1850,8%,UPI,Returned
+SO0179,04-Feb-2026,C081,Farhan Dasgupta,North,Jaipur,Neha Kapoor,P002,Keyboard,Accessories,2,950,0%,UPI,Completed
+SO0178,04-Feb-2026,C047,Chaitali Kapoor,North,Chandigarh,Neha Kapoor,P006,Bluetooth Speaker,Electronics,5,2800,10%,Net Banking,Completed
+SO0531,04-Feb-2026,C089,Debolina Basu,Central,Bhopal,Ananya Singh,P019,File Organizer,Office Supplies,2,420,10%,Debit Card,Completed
+SO0319,04-Feb-2026,C039,Kavita Prasad,South,Bengaluru,Priya Nair,P020,External SSD 1TB,Electronics,4,7200,5%,Credit Card,Completed
+SO0145,05-Feb-2026,C098,Rohit Pillai,East,Bhubaneswar,Moumita Roy,P004,Laptop Stand,Accessories,1,1250,10%,Credit Card,Completed
+SO0421,05-Feb-2026,C096,Isha Banerjee,South,Chennai,Rahul Menon,P015,HDMI Cable,Accessories,8,350,3%,UPI,Pending
+SO0440,05-Feb-2026,C056,Nisha Bose,West,Ahmedabad,Karan Mehta,P018,Whiteboard,Office Supplies,6,2400,10%,Cash,Completed
+SO0246,06-Feb-2026,C110,Zoya Kumar,Central,Bhopal,Ananya Singh,P010,Office Chair,Furniture,2,6200,8%,Credit Card,Cancelled
+SO0309,06-Feb-2026,C104,Suman Mehta,Central,Nagpur,Ananya Singh,P014,Monitor 24 inch,Electronics,2,11200,0%,UPI,Completed
+SO0600,06-Feb-2026,C140,Esha Ganguly,West,Ahmedabad,Karan Mehta,P003,USB-C Hub,Accessories,4,1850,0%,Cash,Completed
+SO0220,07-Feb-2026,C055,Gargi Prasad,East,Kolkata,Moumita Roy,P003,USB-C Hub,Accessories,2,1850,5%,Net Banking,Completed
+SO0484,07-Feb-2026,C005,Hiya Mukherjee,North,Delhi,Neha Kapoor,P006,Bluetooth Speaker,Electronics,3,2800,5%,Cash,Completed
+SO0590,07-Feb-2026,C038,Ananya Ghosh,Central,Bhopal,Ananya Singh,P003,USB-C Hub,Accessories,3,1850,10%,Debit Card,Completed
+SO0211,08-Feb-2026,C077,Subhajit Thakur,Central,Nagpur,Rohan Verma,P011,Study Table,Furniture,8,7800,3%,Cash,Completed
+SO0101,08-Feb-2026,C083,Akash Jain,West,Ahmedabad,Karan Mehta,P012,Desk Lamp,Electronics,2,850,12%,Net Banking,Completed
+SO0377,08-Feb-2026,C016,Aditi Sen,North,Delhi,Neha Kapoor,P018,Whiteboard,Office Supplies,2,2400,12%,Cash,Completed
+SO0028,09-Feb-2026,C015,Joy Gupta,South,Chennai,Priya Nair,P002,Keyboard,Accessories,3,950,8%,Debit Card,Completed
+SO0233,09-Feb-2026,C064,Koyel Nair,West,Ahmedabad,Karan Mehta,P014,Monitor 24 inch,Electronics,4,11200,5%,Credit Card,Completed
+SO0196,09-Feb-2026,C073,Mainak Sinha,East,Kolkata,Sourav Das,P011,Study Table,Furniture,8,7800,0%,Cash,Completed
+SO0511,09-Feb-2026,C124,Arpita Reddy,North,Delhi,Aarav Sharma,P016,Laptop Bag,Accessories,3,1100,12%,UPI,Completed
+SO0034,10-Feb-2026,C142,Avni Paul,West,Ahmedabad,Karan Mehta,P020,External SSD 1TB,Electronics,10,7200,12%,UPI,Completed
+SO0544,10-Feb-2026,C056,Nisha Bose,North,Jaipur,Aarav Sharma,P009,Notebook Pack,Stationery,3,180,3%,UPI,Completed
+SO0204,10-Feb-2026,C128,Kabir Kapoor,East,Guwahati,Moumita Roy,P007,Headphones,Electronics,4,1750,5%,Net Banking,Returned
+SO0097,10-Feb-2026,C119,Ayush Majumdar,East,Guwahati,Sourav Das,P018,Whiteboard,Office Supplies,2,2400,0%,UPI,Returned
+SO0444,11-Feb-2026,C139,Bidisha Menon,East,Guwahati,Moumita Roy,P005,Webcam,Electronics,5,2200,10%,Credit Card,Completed
+SO0370,11-Feb-2026,C111,Oindrila Sarkar,North,Jaipur,Aarav Sharma,P011,Study Table,Furniture,3,7800,8%,UPI,Pending
+SO0277,12-Feb-2026,C127,Pritha Lahiri,West,Pune,Karan Mehta,P010,Office Chair,Furniture,3,6200,0%,Credit Card,Completed
+SO0062,12-Feb-2026,C035,Rupam Kundu,West,Mumbai,Ishita Shah,P013,Printer,Electronics,3,8900,10%,Net Banking,Completed
+SO0527,12-Feb-2026,C102,Sayan Mitra,West,Mumbai,Ishita Shah,P003,USB-C Hub,Accessories,8,1850,5%,UPI,Completed
+SO0561,12-Feb-2026,C114,Kunal Mukherjee,South,Hyderabad,Rahul Menon,P017,Pen Set,Stationery,2,120,0%,Cash,Completed
+SO0412,13-Feb-2026,C013,Lakshmi Gupta,North,Chandigarh,Aarav Sharma,P013,Printer,Electronics,6,8900,3%,Cash,Completed
+SO0258,13-Feb-2026,C135,Ritwik Malhotra,East,Kolkata,Sourav Das,P018,Whiteboard,Office Supplies,3,2400,8%,UPI,Returned
+SO0449,14-Feb-2026,C150,Trisha Verma,Central,Bhopal,Ananya Singh,P002,Keyboard,Accessories,2,950,8%,Credit Card,Completed
+SO0109,14-Feb-2026,C060,Sayantani Roy,North,Jaipur,Neha Kapoor,P020,External SSD 1TB,Electronics,4,7200,5%,Credit Card,Pending
+SO0420,14-Feb-2026,C003,Sreeja Bose,North,Chandigarh,Neha Kapoor,P011,Study Table,Furniture,2,7800,0%,UPI,Completed
+SO0127,14-Feb-2026,C083,Akash Jain,North,Jaipur,Aarav Sharma,P005,Webcam,Electronics,1,2200,12%,Cash,Completed
+SO0347,14-Feb-2026,C036,Titas Patel,North,Chandigarh,Neha Kapoor,P018,Whiteboard,Office Supplies,4,2400,0%,UPI,Completed
+SO0015,15-Feb-2026,C139,Bidisha Menon,Central,Bhopal,Ananya Singh,P017,Pen Set,Stationery,3,120,0%,Credit Card,Completed
+SO0391,15-Feb-2026,C073,Mainak Sinha,West,Ahmedabad,Karan Mehta,P012,Desk Lamp,Electronics,1,850,3%,UPI,Completed
+SO0225,15-Feb-2026,C003,Sreeja Bose,North,Chandigarh,Neha Kapoor,P006,Bluetooth Speaker,Electronics,8,2800,12%,UPI,Cancelled
+SO0509,15-Feb-2026,C128,Kabir Kapoor,West,Pune,Karan Mehta,P007,Headphones,Electronics,6,1750,3%,Credit Card,Completed
+SO0336,15-Feb-2026,C084,Vikram Bhowmik,South,Hyderabad,Priya Nair,P013,Printer,Electronics,1,8900,5%,Debit Card,Pending
+SO0542,16-Feb-2026,C114,Kunal Mukherjee,South,Chennai,Rahul Menon,P001,Wireless Mouse,Accessories,1,650,12%,Net Banking,Completed
+SO0292,17-Feb-2026,C002,Tanmoy Banerjee,West,Pune,Ishita Shah,P020,External SSD 1TB,Electronics,6,7200,5%,Net Banking,Completed
+SO0182,17-Feb-2026,C109,Utsav Mishra,West,Ahmedabad,Karan Mehta,P012,Desk Lamp,Electronics,8,850,8%,UPI,Completed
+SO0539,17-Feb-2026,C039,Kavita Prasad,North,Chandigarh,Neha Kapoor,P005,Webcam,Electronics,4,2200,10%,UPI,Completed
+SO0274,17-Feb-2026,C084,Vikram Bhowmik,West,Pune,Karan Mehta,P004,Laptop Stand,Accessories,1,1250,3%,Cash,Completed
+SO0376,17-Feb-2026,C016,Aditi Sen,West,Mumbai,Karan Mehta,P015,HDMI Cable,Accessories,2,350,0%,Cash,Completed
+SO0592,18-Feb-2026,C146,Aarohi Chowdhury,North,Delhi,Aarav Sharma,P001,Wireless Mouse,Accessories,4,650,8%,Cash,Completed
+SO0553,18-Feb-2026,C029,Bikram Bhattacharya,Central,Nagpur,Ananya Singh,P018,Whiteboard,Office Supplies,1,2400,3%,Debit Card,Completed
+SO0411,18-Feb-2026,C130,Sameer Datta,South,Chennai,Priya Nair,P008,Power Bank,Electronics,1,1450,0%,UPI,Completed
+SO0102,18-Feb-2026,C098,Rohit Pillai,South,Hyderabad,Rahul Menon,P008,Power Bank,Electronics,5,1450,5%,Net Banking,Completed
+SO0218,19-Feb-2026,C126,Ashish Agarwal,South,Chennai,Rahul Menon,P008,Power Bank,Electronics,8,1450,3%,Credit Card,Completed
+SO0163,19-Feb-2026,C135,Ritwik Malhotra,South,Bengaluru,Priya Nair,P003,USB-C Hub,Accessories,2,1850,12%,Cash,Completed
+SO0501,19-Feb-2026,C041,Chirag Biswas,North,Jaipur,Aarav Sharma,P020,External SSD 1TB,Electronics,1,7200,0%,UPI,Completed
+SO0380,19-Feb-2026,C067,Moumita Singh,South,Bengaluru,Rahul Menon,P003,USB-C Hub,Accessories,10,1850,5%,Credit Card,Completed
+SO0468,19-Feb-2026,C145,Darshan Das,East,Bhubaneswar,Moumita Roy,P011,Study Table,Furniture,3,7800,3%,Credit Card,Completed
+SO0052,20-Feb-2026,C117,Eshani Dutta,South,Bengaluru,Priya Nair,P008,Power Bank,Electronics,10,1450,8%,UPI,Completed
+SO0408,21-Feb-2026,C058,Pallavi Patel,East,Kolkata,Moumita Roy,P017,Pen Set,Stationery,1,120,10%,Credit Card,Completed
+SO0221,21-Feb-2026,C013,Lakshmi Gupta,Central,Indore,Ananya Singh,P005,Webcam,Electronics,1,2200,10%,Credit Card,Completed
+SO0441,21-Feb-2026,C129,Firoz Shah,South,Hyderabad,Rahul Menon,P012,Desk Lamp,Electronics,8,850,0%,Credit Card,Returned
+SO0510,21-Feb-2026,C092,Meera Sarkar,South,Hyderabad,Priya Nair,P009,Notebook Pack,Stationery,1,180,0%,Cash,Completed
+SO0190,21-Feb-2026,C082,Gunjan Pillai,North,Delhi,Aarav Sharma,P015,HDMI Cable,Accessories,1,350,10%,UPI,Completed
+SO0374,21-Feb-2026,C079,Varun Saha,North,Delhi,Aarav Sharma,P006,Bluetooth Speaker,Electronics,3,2800,0%,UPI,Completed
+SO0589,22-Feb-2026,C111,Oindrila Sarkar,South,Hyderabad,Priya Nair,P005,Webcam,Electronics,2,2200,10%,Credit Card,Pending
+SO0458,22-Feb-2026,C010,Hemant Saxena,Central,Nagpur,Ananya Singh,P003,USB-C Hub,Accessories,4,1850,0%,Debit Card,Completed
+SO0432,22-Feb-2026,C122,Diya Mitra,West,Pune,Karan Mehta,P002,Keyboard,Accessories,5,950,12%,Cash,Completed
+SO0040,23-Feb-2026,C040,Dev Malhotra,South,Hyderabad,Priya Nair,P012,Desk Lamp,Electronics,5,850,12%,Cash,Completed
+SO0268,23-Feb-2026,C139,Bidisha Menon,Central,Bhopal,Ananya Singh,P003,USB-C Hub,Accessories,2,1850,8%,Net Banking,Completed
+SO0345,23-Feb-2026,C011,Jasmin Datta,West,Pune,Karan Mehta,P009,Notebook Pack,Stationery,5,180,0%,Debit Card,Completed
+SO0497,24-Feb-2026,C100,Keshav Mondal,Central,Indore,Ananya Singh,P018,Whiteboard,Office Supplies,3,2400,10%,Credit Card,Completed
+SO0022,24-Feb-2026,C025,Leena Sharma,Central,Bhopal,Ananya Singh,P008,Power Bank,Electronics,5,1450,12%,UPI,Completed
+SO0346,25-Feb-2026,C067,Moumita Singh,East,Kolkata,Sourav Das,P008,Power Bank,Electronics,8,1450,5%,Debit Card,Completed
+SO0133,25-Feb-2026,C081,Farhan Dasgupta,West,Pune,Ishita Shah,P014,Monitor 24 inch,Electronics,2,11200,5%,UPI,Completed
+SO0141,25-Feb-2026,C022,Mitali Sen,West,Pune,Karan Mehta,P011,Study Table,Furniture,1,7800,3%,Cash,Completed
+SO0395,25-Feb-2026,C144,Madhuri Nair,West,Pune,Karan Mehta,P019,File Organizer,Office Supplies,1,420,8%,Debit Card,Returned
+SO0394,27-Feb-2026,C065,Naveen Mehta,East,Guwahati,Moumita Roy,P009,Notebook Pack,Stationery,2,180,5%,Net Banking,Completed
+SO0595,27-Feb-2026,C053,Karan Ganguly,North,Chandigarh,Aarav Sharma,P009,Notebook Pack,Stationery,8,180,0%,Credit Card,Completed
+SO0214,28-Feb-2026,C038,Ananya Ghosh,North,Jaipur,Neha Kapoor,P006,Bluetooth Speaker,Electronics,3,2800,10%,Net Banking,Completed
+SO0529,28-Feb-2026,C008,Omkar Rao,South,Hyderabad,Rahul Menon,P015,HDMI Cable,Accessories,3,350,0%,Credit Card,Completed
+SO0271,28-Feb-2026,C076,Payal Jain,East,Guwahati,Moumita Roy,P014,Monitor 24 inch,Electronics,1,11200,8%,UPI,Completed
+SO0559,01-Mar-2026,C143,Rekha Saha,Central,Indore,Rohan Verma,P007,Headphones,Electronics,3,1750,0%,Credit Card,Completed
+SO0126,01-Mar-2026,C065,Naveen Mehta,East,Kolkata,Sourav Das,P009,Notebook Pack,Stationery,5,180,0%,Cash,Returned
+SO0418,02-Mar-2026,C131,Debjani Majumdar,North,Delhi,Aarav Sharma,P004,Laptop Stand,Accessories,5,1250,10%,UPI,Completed
+SO0026,02-Mar-2026,C098,Rohit Pillai,South,Chennai,Rahul Menon,P016,Laptop Bag,Accessories,1,1100,5%,Credit Card,Pending
+SO0518,02-Mar-2026,C046,Akanksha Saha,Central,Indore,Ananya Singh,P007,Headphones,Electronics,1,1750,10%,UPI,Completed
+SO0041,02-Mar-2026,C064,Koyel Nair,South,Bengaluru,Rahul Menon,P001,Wireless Mouse,Accessories,1,650,3%,Net Banking,Completed
+SO0516,02-Mar-2026,C094,Sahil Bhowmik,East,Bhubaneswar,Moumita Roy,P012,Desk Lamp,Electronics,1,850,5%,Debit Card,Completed
+SO0066,03-Mar-2026,C043,Mohan Lahiri,South,Chennai,Priya Nair,P019,File Organizer,Office Supplies,8,420,5%,Debit Card,Completed
+SO0575,04-Mar-2026,C109,Utsav Mishra,North,Chandigarh,Neha Kapoor,P011,Study Table,Furniture,4,7800,8%,Net Banking,Completed
+SO0244,04-Mar-2026,C036,Titas Patel,North,Chandigarh,Neha Kapoor,P008,Power Bank,Electronics,3,1450,12%,UPI,Pending
+SO0546,04-Mar-2026,C128,Kabir Kapoor,North,Delhi,Neha Kapoor,P020,External SSD 1TB,Electronics,1,7200,12%,Credit Card,Completed
+SO0253,04-Mar-2026,C098,Rohit Pillai,Central,Nagpur,Rohan Verma,P013,Printer,Electronics,6,8900,8%,Debit Card,Completed
+SO0272,05-Mar-2026,C082,Gunjan Pillai,North,Delhi,Neha Kapoor,P005,Webcam,Electronics,2,2200,12%,Net Banking,Completed
+SO0543,05-Mar-2026,C083,Akash Jain,North,Delhi,Neha Kapoor,P004,Laptop Stand,Accessories,3,1250,0%,Debit Card,Completed
+SO0011,05-Mar-2026,C036,Titas Patel,Central,Nagpur,Ananya Singh,P019,File Organizer,Office Supplies,2,420,8%,Credit Card,Completed
+SO0585,05-Mar-2026,C091,Tara Joshi,Central,Indore,Ananya Singh,P016,Laptop Bag,Accessories,2,1100,0%,Debit Card,Completed
+SO0549,06-Mar-2026,C048,Uma Ghosh,North,Chandigarh,Neha Kapoor,P018,Whiteboard,Office Supplies,2,2400,10%,Cash,Completed
+SO0117,07-Mar-2026,C102,Sayan Mitra,West,Pune,Karan Mehta,P004,Laptop Stand,Accessories,2,1250,0%,Credit Card,Completed
+SO0450,07-Mar-2026,C078,Riya Dutta,North,Chandigarh,Neha Kapoor,P005,Webcam,Electronics,1,2200,3%,Cash,Completed
+SO0046,07-Mar-2026,C094,Sahil Bhowmik,North,Jaipur,Neha Kapoor,P001,Wireless Mouse,Accessories,3,650,12%,Credit Card,Completed
+SO0367,07-Mar-2026,C106,Vikas Kumar,North,Jaipur,Aarav Sharma,P002,Keyboard,Accessories,2,950,10%,Credit Card,Completed
+SO0435,07-Mar-2026,C087,Yamini Reddy,Central,Bhopal,Rohan Verma,P004,Laptop Stand,Accessories,8,1250,5%,Credit Card,Completed
+SO0230,08-Mar-2026,C003,Sreeja Bose,West,Mumbai,Karan Mehta,P009,Notebook Pack,Stationery,8,180,3%,Cash,Completed
+SO0507,08-Mar-2026,C138,Zainab Agarwal,North,Chandigarh,Aarav Sharma,P008,Power Bank,Electronics,5,1450,5%,Cash,Cancelled
+SO0231,08-Mar-2026,C129,Firoz Shah,East,Guwahati,Sourav Das,P002,Keyboard,Accessories,4,950,5%,Net Banking,Completed
+SO0256,08-Mar-2026,C063,Sakshi Saxena,Central,Nagpur,Ananya Singh,P010,Office Chair,Furniture,1,6200,3%,Cash,Completed
+SO0536,09-Mar-2026,C073,Mainak Sinha,North,Chandigarh,Aarav Sharma,P017,Pen Set,Stationery,4,120,8%,Debit Card,Completed
+SO0105,09-Mar-2026,C098,Rohit Pillai,East,Guwahati,Moumita Roy,P003,USB-C Hub,Accessories,5,1850,12%,Cash,Completed
+SO0203,10-Mar-2026,C064,Koyel Nair,West,Mumbai,Ishita Shah,P004,Laptop Stand,Accessories,1,1250,5%,Net Banking,Pending
+SO0387,10-Mar-2026,C133,Anirban Paul,West,Ahmedabad,Ishita Shah,P007,Headphones,Electronics,2,1750,12%,Net Banking,Completed
+SO0525,10-Mar-2026,C134,Sohini Dasgupta,Central,Nagpur,Ananya Singh,P009,Notebook Pack,Stationery,6,180,12%,Debit Card,Pending
+SO0393,10-Mar-2026,C003,Sreeja Bose,West,Ahmedabad,Ishita Shah,P001,Wireless Mouse,Accessories,3,650,0%,Cash,Completed
+SO0042,10-Mar-2026,C118,Dibyendu Majumdar,South,Hyderabad,Priya Nair,P013,Printer,Electronics,6,8900,12%,Credit Card,Completed
+SO0267,11-Mar-2026,C005,Hiya Mukherjee,North,Delhi,Neha Kapoor,P018,Whiteboard,Office Supplies,3,2400,0%,Debit Card,Completed
+SO0390,12-Mar-2026,C115,Nilanjana Yadav,East,Bhubaneswar,Moumita Roy,P004,Laptop Stand,Accessories,4,1250,0%,Cash,Completed
+SO0185,12-Mar-2026,C037,Aishwarya Rao,North,Delhi,Neha Kapoor,P012,Desk Lamp,Electronics,3,850,10%,UPI,Completed
+SO0100,12-Mar-2026,C126,Ashish Agarwal,West,Pune,Karan Mehta,P001,Wireless Mouse,Accessories,2,650,3%,Cash,Completed
+SO0397,12-Mar-2026,C104,Suman Mehta,East,Guwahati,Moumita Roy,P007,Headphones,Electronics,1,1750,12%,UPI,Completed
+SO0301,12-Mar-2026,C141,Sujata Chatterjee,South,Hyderabad,Rahul Menon,P006,Bluetooth Speaker,Electronics,5,2800,8%,Net Banking,Completed
+SO0587,13-Mar-2026,C059,Urmila Singh,South,Bengaluru,Rahul Menon,P013,Printer,Electronics,4,8900,0%,Cash,Completed
+SO0341,13-Mar-2026,C149,Vandana Iyer,North,Delhi,Aarav Sharma,P017,Pen Set,Stationery,2,120,3%,UPI,Completed
+SO0416,14-Mar-2026,C052,Anjali Agarwal,North,Delhi,Neha Kapoor,P007,Headphones,Electronics,3,1750,12%,Cash,Completed
+SO0081,14-Mar-2026,C030,Gopal Malhotra,West,Pune,Karan Mehta,P011,Study Table,Furniture,1,7800,0%,Net Banking,Completed
+SO0312,14-Mar-2026,C012,Harish Mitra,East,Guwahati,Sourav Das,P019,File Organizer,Office Supplies,5,420,12%,UPI,Completed
+SO0051,14-Mar-2026,C058,Pallavi Patel,Central,Nagpur,Ananya Singh,P003,USB-C Hub,Accessories,5,1850,12%,Debit Card,Completed
+SO0462,14-Mar-2026,C140,Esha Ganguly,West,Pune,Karan Mehta,P001,Wireless Mouse,Accessories,3,650,8%,Net Banking,Completed
+SO0326,15-Mar-2026,C072,Manish Sinha,Central,Indore,Ananya Singh,P013,Printer,Electronics,1,8900,8%,Credit Card,Completed
+SO0114,15-Mar-2026,C025,Leena Sharma,South,Hyderabad,Rahul Menon,P008,Power Bank,Electronics,3,1450,8%,Credit Card,Completed
+SO0443,15-Mar-2026,C069,Tanvi Jain,West,Mumbai,Ishita Shah,P001,Wireless Mouse,Accessories,2,650,0%,Credit Card,Completed
+SO0224,15-Mar-2026,C107,Jitendra Dasgupta,North,Delhi,Aarav Sharma,P018,Whiteboard,Office Supplies,4,2400,12%,Credit Card,Cancelled
+SO0262,15-Mar-2026,C050,Komal Thakur,North,Jaipur,Neha Kapoor,P006,Bluetooth Speaker,Electronics,1,2800,0%,Credit Card,Completed
+SO0599,16-Mar-2026,C133,Anirban Paul,West,Pune,Karan Mehta,P010,Office Chair,Furniture,2,6200,5%,UPI,Completed
+SO0343,16-Mar-2026,C035,Rupam Kundu,East,Bhubaneswar,Moumita Roy,P011,Study Table,Furniture,2,7800,3%,Credit Card,Completed
+SO0463,17-Mar-2026,C002,Tanmoy Banerjee,South,Chennai,Rahul Menon,P001,Wireless Mouse,Accessories,3,650,8%,UPI,Completed
+SO0534,18-Mar-2026,C106,Vikas Kumar,North,Chandigarh,Neha Kapoor,P020,External SSD 1TB,Electronics,1,7200,0%,Credit Card,Completed
+SO0226,18-Mar-2026,C035,Rupam Kundu,Central,Nagpur,Rohan Verma,P011,Study Table,Furniture,2,7800,10%,Net Banking,Completed
+SO0565,18-Mar-2026,C131,Debjani Majumdar,South,Bengaluru,Rahul Menon,P001,Wireless Mouse,Accessories,5,650,10%,Cash,Completed
+SO0035,18-Mar-2026,C073,Mainak Sinha,North,Delhi,Neha Kapoor,P004,Laptop Stand,Accessories,6,1250,10%,Debit Card,Completed
+SO0248,18-Mar-2026,C119,Ayush Majumdar,West,Mumbai,Karan Mehta,P008,Power Bank,Electronics,5,1450,3%,Credit Card,Completed
+SO0410,18-Mar-2026,C092,Meera Sarkar,East,Bhubaneswar,Moumita Roy,P014,Monitor 24 inch,Electronics,6,11200,0%,Net Banking,Completed
+SO0386,19-Mar-2026,C083,Akash Jain,East,Bhubaneswar,Moumita Roy,P004,Laptop Stand,Accessories,10,1250,0%,Net Banking,Completed
+SO0205,20-Mar-2026,C013,Lakshmi Gupta,West,Mumbai,Ishita Shah,P013,Printer,Electronics,3,8900,0%,Debit Card,Completed
+SO0289,21-Mar-2026,C082,Gunjan Pillai,East,Bhubaneswar,Sourav Das,P017,Pen Set,Stationery,3,120,5%,Net Banking,Completed
+SO0329,21-Mar-2026,C134,Sohini Dasgupta,South,Bengaluru,Priya Nair,P005,Webcam,Electronics,4,2200,0%,Debit Card,Completed
+SO0359,21-Mar-2026,C123,Aarav Sharma,South,Chennai,Priya Nair,P003,USB-C Hub,Accessories,1,1850,8%,Cash,Completed
+SO0048,21-Mar-2026,C045,Chandan Chatterjee,West,Pune,Karan Mehta,P010,Office Chair,Furniture,3,6200,0%,Net Banking,Completed
+SO0154,21-Mar-2026,C130,Sameer Datta,West,Pune,Ishita Shah,P002,Keyboard,Accessories,2,950,3%,UPI,Completed
+SO0180,21-Mar-2026,C013,Lakshmi Gupta,Central,Indore,Ananya Singh,P009,Notebook Pack,Stationery,1,180,10%,Debit Card,Completed
+SO0405,22-Mar-2026,C002,Tanmoy Banerjee,South,Bengaluru,Rahul Menon,P011,Study Table,Furniture,3,7800,0%,UPI,Completed
+SO0597,22-Mar-2026,C063,Sakshi Saxena,West,Ahmedabad,Ishita Shah,P017,Pen Set,Stationery,1,120,5%,UPI,Completed
+SO0280,22-Mar-2026,C063,Sakshi Saxena,South,Chennai,Rahul Menon,P010,Office Chair,Furniture,4,6200,10%,Cash,Completed
+SO0010,22-Mar-2026,C036,Titas Patel,South,Hyderabad,Rahul Menon,P013,Printer,Electronics,6,8900,10%,Debit Card,Completed
+SO0202,23-Mar-2026,C032,Shreya Mondal,East,Bhubaneswar,Sourav Das,P012,Desk Lamp,Electronics,3,850,0%,Net Banking,Completed
+SO0381,23-Mar-2026,C118,Dibyendu Majumdar,North,Delhi,Neha Kapoor,P018,Whiteboard,Office Supplies,2,2400,3%,Cash,Completed
+SO0106,23-Mar-2026,C059,Urmila Singh,West,Ahmedabad,Ishita Shah,P020,External SSD 1TB,Electronics,1,7200,10%,Debit Card,Completed
+SO0219,23-Mar-2026,C089,Debolina Basu,West,Pune,Karan Mehta,P010,Office Chair,Furniture,1,6200,10%,Net Banking,Completed
+SO0335,24-Mar-2026,C014,Lalit Banerjee,South,Chennai,Rahul Menon,P009,Notebook Pack,Stationery,5,180,8%,Cash,Completed
+SO0294,25-Mar-2026,C100,Keshav Mondal,South,Chennai,Priya Nair,P009,Notebook Pack,Stationery,4,180,5%,Debit Card,Completed
+SO0281,25-Mar-2026,C047,Chaitali Kapoor,West,Pune,Karan Mehta,P012,Desk Lamp,Electronics,1,850,8%,Cash,Completed
+SO0229,25-Mar-2026,C002,Tanmoy Banerjee,North,Chandigarh,Aarav Sharma,P006,Bluetooth Speaker,Electronics,10,2800,5%,Credit Card,Completed
+SO0571,25-Mar-2026,C148,Mahesh Verma,Central,Nagpur,Rohan Verma,P005,Webcam,Electronics,1,2200,10%,Net Banking,Returned
+SO0568,25-Mar-2026,C010,Hemant Saxena,West,Mumbai,Karan Mehta,P019,File Organizer,Office Supplies,5,420,0%,Debit Card,Completed
+SO0350,26-Mar-2026,C128,Kabir Kapoor,North,Delhi,Neha Kapoor,P002,Keyboard,Accessories,1,950,8%,Net Banking,Completed
+SO0093,26-Mar-2026,C010,Hemant Saxena,West,Ahmedabad,Karan Mehta,P010,Office Chair,Furniture,4,6200,5%,Cash,Completed
+SO0059,26-Mar-2026,C006,Neha Menon,Central,Indore,Ananya Singh,P002,Keyboard,Accessories,1,950,5%,Cash,Completed
+SO0279,26-Mar-2026,C123,Aarav Sharma,West,Pune,Karan Mehta,P020,External SSD 1TB,Electronics,1,7200,3%,Credit Card,Completed
+SO0269,26-Mar-2026,C060,Sayantani Roy,West,Ahmedabad,Ishita Shah,P003,USB-C Hub,Accessories,3,1850,3%,Net Banking,Completed
+SO0136,26-Mar-2026,C080,Vivek Joshi,North,Chandigarh,Neha Kapoor,P014,Monitor 24 inch,Electronics,6,11200,10%,Debit Card,Completed
+SO0429,26-Mar-2026,C118,Dibyendu Majumdar,East,Kolkata,Sourav Das,P018,Whiteboard,Office Supplies,3,2400,5%,UPI,Completed
+SO0453,26-Mar-2026,C030,Gopal Malhotra,East,Bhubaneswar,Sourav Das,P020,External SSD 1TB,Electronics,3,7200,8%,UPI,Completed
+SO0159,26-Mar-2026,C039,Kavita Prasad,North,Jaipur,Neha Kapoor,P010,Office Chair,Furniture,2,6200,12%,Cash,Completed
+SO0331,27-Mar-2026,C117,Eshani Dutta,West,Pune,Ishita Shah,P009,Notebook Pack,Stationery,4,180,8%,Net Banking,Completed
+SO0160,27-Mar-2026,C034,Rakesh Kapoor,North,Jaipur,Aarav Sharma,P012,Desk Lamp,Electronics,2,850,10%,Net Banking,Completed
+SO0579,29-Mar-2026,C053,Karan Ganguly,North,Chandigarh,Neha Kapoor,P016,Laptop Bag,Accessories,1,1100,0%,Credit Card,Completed
+SO0074,29-Mar-2026,C126,Ashish Agarwal,East,Guwahati,Moumita Roy,P018,Whiteboard,Office Supplies,1,2400,0%,Net Banking,Completed
+SO0422,29-Mar-2026,C108,Pooja Basu,South,Bengaluru,Rahul Menon,P013,Printer,Electronics,8,8900,3%,Net Banking,Completed
+SO0004,29-Mar-2026,C068,Bhavna Yadav,East,Kolkata,Sourav Das,P011,Study Table,Furniture,1,7800,5%,Debit Card,Completed
+SO0505,29-Mar-2026,C097,Ritu Ganguly,North,Jaipur,Neha Kapoor,P018,Whiteboard,Office Supplies,5,2400,8%,Net Banking,Completed
+SO0496,30-Mar-2026,C026,Deepika Iyer,West,Ahmedabad,Ishita Shah,P004,Laptop Stand,Accessories,4,1250,5%,Credit Card,Completed
+SO0195,30-Mar-2026,C133,Anirban Paul,South,Hyderabad,Priya Nair,P005,Webcam,Electronics,2,2200,12%,UPI,Completed
+SO0288,30-Mar-2026,C090,Jaya Menon,North,Chandigarh,Aarav Sharma,P010,Office Chair,Furniture,2,6200,0%,Credit Card,Completed
+SO0366,30-Mar-2026,C090,Jaya Menon,East,Kolkata,Sourav Das,P011,Study Table,Furniture,2,7800,3%,UPI,Completed
+SO0321,31-Mar-2026,C073,Mainak Sinha,West,Pune,Ishita Shah,P008,Power Bank,Electronics,2,1450,0%,Cash,Completed
+SO0044,31-Mar-2026,C010,Hemant Saxena,Central,Indore,Ananya Singh,P001,Wireless Mouse,Accessories,1,650,3%,Debit Card,Completed
+SO0043,31-Mar-2026,C072,Manish Sinha,East,Kolkata,Sourav Das,P001,Wireless Mouse,Accessories,4,650,5%,UPI,Completed
+SO0077,01-Apr-2026,C138,Zainab Agarwal,West,Pune,Karan Mehta,P009,Notebook Pack,Stationery,1,180,10%,UPI,Completed
+SO0562,01-Apr-2026,C062,Arjun Kumar,East,Guwahati,Moumita Roy,P012,Desk Lamp,Electronics,2,850,10%,Debit Card,Completed
+SO0137,01-Apr-2026,C143,Rekha Saha,North,Jaipur,Aarav Sharma,P005,Webcam,Electronics,4,2200,0%,Debit Card,Completed
+SO0354,02-Apr-2026,C047,Chaitali Kapoor,West,Ahmedabad,Karan Mehta,P012,Desk Lamp,Electronics,6,850,8%,Debit Card,Completed
+SO0417,02-Apr-2026,C085,Raj Das,West,Pune,Ishita Shah,P002,Keyboard,Accessories,3,950,0%,Net Banking,Completed
+SO0356,02-Apr-2026,C057,Sanjay Prasad,Central,Bhopal,Rohan Verma,P004,Laptop Stand,Accessories,1,1250,0%,UPI,Completed
+SO0470,03-Apr-2026,C142,Avni Paul,South,Hyderabad,Rahul Menon,P016,Laptop Bag,Accessories,2,1100,3%,Net Banking,Completed
+SO0273,03-Apr-2026,C023,Shubham Mukherjee,North,Delhi,Aarav Sharma,P010,Office Chair,Furniture,2,6200,12%,Credit Card,Completed
+SO0521,03-Apr-2026,C051,Kajal Basu,East,Guwahati,Moumita Roy,P012,Desk Lamp,Electronics,1,850,0%,Cash,Completed
+SO0285,03-Apr-2026,C012,Harish Mitra,Central,Nagpur,Rohan Verma,P004,Laptop Stand,Accessories,4,1250,10%,Credit Card,Completed
+SO0188,04-Apr-2026,C133,Anirban Paul,West,Pune,Karan Mehta,P008,Power Bank,Electronics,8,1450,0%,Net Banking,Completed
+SO0207,04-Apr-2026,C074,Vidya Gupta,West,Pune,Ishita Shah,P013,Printer,Electronics,1,8900,8%,Cash,Completed
+SO0576,04-Apr-2026,C090,Jaya Menon,East,Kolkata,Moumita Roy,P012,Desk Lamp,Electronics,3,850,0%,Credit Card,Completed
+SO0499,05-Apr-2026,C074,Vidya Gupta,North,Jaipur,Aarav Sharma,P013,Printer,Electronics,8,8900,5%,Cash,Completed
+SO0138,05-Apr-2026,C143,Rekha Saha,North,Chandigarh,Aarav Sharma,P014,Monitor 24 inch,Electronics,5,11200,12%,Cash,Completed
+SO0193,05-Apr-2026,C135,Ritwik Malhotra,West,Ahmedabad,Ishita Shah,P020,External SSD 1TB,Electronics,6,7200,0%,Net Banking,Completed
+SO0158,06-Apr-2026,C017,Anupam Nair,East,Bhubaneswar,Moumita Roy,P011,Study Table,Furniture,4,7800,0%,Debit Card,Completed
+SO0402,06-Apr-2026,C149,Vandana Iyer,East,Guwahati,Moumita Roy,P015,HDMI Cable,Accessories,5,350,5%,Cash,Completed
+SO0512,06-Apr-2026,C072,Manish Sinha,Central,Indore,Ananya Singh,P019,File Organizer,Office Supplies,6,420,5%,Cash,Completed
+SO0388,06-Apr-2026,C146,Aarohi Chowdhury,North,Jaipur,Aarav Sharma,P003,USB-C Hub,Accessories,2,1850,8%,Cash,Completed
+SO0132,08-Apr-2026,C142,Avni Paul,Central,Nagpur,Ananya Singh,P015,HDMI Cable,Accessories,3,350,5%,UPI,Completed
+SO0119,08-Apr-2026,C057,Sanjay Prasad,East,Kolkata,Sourav Das,P016,Laptop Bag,Accessories,1,1100,8%,Cash,Completed
+SO0523,08-Apr-2026,C108,Pooja Basu,Central,Indore,Ananya Singh,P005,Webcam,Electronics,6,2200,10%,Debit Card,Completed
+SO0240,08-Apr-2026,C090,Jaya Menon,West,Pune,Karan Mehta,P003,USB-C Hub,Accessories,4,1850,10%,Credit Card,Pending
+SO0552,08-Apr-2026,C100,Keshav Mondal,South,Bengaluru,Rahul Menon,P020,External SSD 1TB,Electronics,1,7200,10%,Cash,Completed
+SO0167,08-Apr-2026,C014,Lalit Banerjee,Central,Nagpur,Ananya Singh,P006,Bluetooth Speaker,Electronics,5,2800,12%,Debit Card,Completed
+SO0353,09-Apr-2026,C098,Rohit Pillai,South,Chennai,Priya Nair,P017,Pen Set,Stationery,1,120,12%,UPI,Completed
+SO0439,09-Apr-2026,C035,Rupam Kundu,West,Ahmedabad,Ishita Shah,P009,Notebook Pack,Stationery,2,180,3%,Net Banking,Returned
+SO0275,09-Apr-2026,C147,Gaurav Thakur,North,Chandigarh,Neha Kapoor,P013,Printer,Electronics,5,8900,10%,Credit Card,Pending
+SO0334,09-Apr-2026,C058,Pallavi Patel,South,Bengaluru,Priya Nair,P018,Whiteboard,Office Supplies,5,2400,10%,Net Banking,Completed
+SO0013,09-Apr-2026,C030,Gopal Malhotra,West,Ahmedabad,Karan Mehta,P017,Pen Set,Stationery,2,120,8%,UPI,Pending
+SO0103,09-Apr-2026,C113,Charu Sinha,South,Chennai,Priya Nair,P005,Webcam,Electronics,3,2200,8%,UPI,Completed
+SO0155,09-Apr-2026,C122,Diya Mitra,West,Ahmedabad,Ishita Shah,P015,HDMI Cable,Accessories,6,350,8%,Debit Card,Completed
+SO0378,10-Apr-2026,C009,Dinesh Sarkar,Central,Indore,Ananya Singh,P019,File Organizer,Office Supplies,6,420,5%,Net Banking,Completed
+SO0399,10-Apr-2026,C092,Meera Sarkar,North,Jaipur,Aarav Sharma,P011,Study Table,Furniture,4,7800,0%,Net Banking,Completed
+SO0297,10-Apr-2026,C045,Chandan Chatterjee,West,Ahmedabad,Ishita Shah,P019,File Organizer,Office Supplies,2,420,0%,Cash,Completed
+SO0189,10-Apr-2026,C126,Ashish Agarwal,Central,Bhopal,Ananya Singh,P009,Notebook Pack,Stationery,4,180,0%,Debit Card,Returned
+SO0460,10-Apr-2026,C002,Tanmoy Banerjee,West,Ahmedabad,Karan Mehta,P014,Monitor 24 inch,Electronics,2,11200,5%,Cash,Completed
+SO0446,10-Apr-2026,C142,Avni Paul,South,Hyderabad,Rahul Menon,P002,Keyboard,Accessories,8,950,5%,Debit Card,Completed
+SO0474,11-Apr-2026,C129,Firoz Shah,South,Hyderabad,Rahul Menon,P005,Webcam,Electronics,2,2200,8%,Debit Card,Completed
+SO0564,12-Apr-2026,C002,Tanmoy Banerjee,North,Jaipur,Aarav Sharma,P010,Office Chair,Furniture,3,6200,8%,Debit Card,Completed
+SO0124,12-Apr-2026,C006,Neha Menon,East,Kolkata,Sourav Das,P015,HDMI Cable,Accessories,1,350,0%,Cash,Completed
+SO0385,12-Apr-2026,C087,Yamini Reddy,East,Guwahati,Sourav Das,P002,Keyboard,Accessories,4,950,3%,UPI,Pending
+SO0375,12-Apr-2026,C095,Ekta Lahiri,West,Pune,Karan Mehta,P003,USB-C Hub,Accessories,3,1850,5%,Net Banking,Completed
+SO0513,12-Apr-2026,C009,Dinesh Sarkar,South,Hyderabad,Priya Nair,P002,Keyboard,Accessories,3,950,5%,Cash,Completed
+SO0210,13-Apr-2026,C117,Eshani Dutta,Central,Bhopal,Rohan Verma,P002,Keyboard,Accessories,1,950,3%,Cash,Completed
+SO0517,13-Apr-2026,C070,Nikita Kundu,East,Bhubaneswar,Sourav Das,P019,File Organizer,Office Supplies,1,420,8%,UPI,Completed
+SO0024,14-Apr-2026,C072,Manish Sinha,East,Kolkata,Sourav Das,P007,Headphones,Electronics,1,1750,5%,Credit Card,Completed
+SO0431,14-Apr-2026,C144,Madhuri Nair,West,Mumbai,Ishita Shah,P003,USB-C Hub,Accessories,5,1850,8%,Cash,Completed
+SO0265,14-Apr-2026,C112,Rajat Roy,West,Pune,Karan Mehta,P002,Keyboard,Accessories,3,950,10%,Net Banking,Completed
+SO0504,14-Apr-2026,C076,Payal Jain,Central,Bhopal,Ananya Singh,P006,Bluetooth Speaker,Electronics,2,2800,0%,Cash,Completed
+SO0473,14-Apr-2026,C094,Sahil Bhowmik,Central,Bhopal,Rohan Verma,P018,Whiteboard,Office Supplies,2,2400,8%,Credit Card,Completed
+SO0194,16-Apr-2026,C133,Anirban Paul,West,Ahmedabad,Ishita Shah,P005,Webcam,Electronics,10,2200,10%,Net Banking,Completed
+SO0320,16-Apr-2026,C099,Sneha Sharma,Central,Nagpur,Ananya Singh,P007,Headphones,Electronics,1,1750,0%,UPI,Completed
+SO0486,16-Apr-2026,C117,Eshani Dutta,Central,Bhopal,Rohan Verma,P020,External SSD 1TB,Electronics,4,7200,3%,Debit Card,Completed
+SO0465,16-Apr-2026,C047,Chaitali Kapoor,Central,Bhopal,Rohan Verma,P006,Bluetooth Speaker,Electronics,1,2800,12%,UPI,Completed
+SO0216,16-Apr-2026,C123,Aarav Sharma,Central,Nagpur,Ananya Singh,P002,Keyboard,Accessories,4,950,8%,Debit Card,Completed
+SO0495,16-Apr-2026,C148,Mahesh Verma,Central,Nagpur,Ananya Singh,P006,Bluetooth Speaker,Electronics,2,2800,8%,Debit Card,Completed
+SO0482,17-Apr-2026,C106,Vikas Kumar,East,Guwahati,Sourav Das,P016,Laptop Bag,Accessories,4,1100,5%,Credit Card,Completed
+SO0588,17-Apr-2026,C034,Rakesh Kapoor,South,Hyderabad,Priya Nair,P014,Monitor 24 inch,Electronics,10,11200,8%,Cash,Completed
+SO0300,17-Apr-2026,C009,Dinesh Sarkar,West,Pune,Ishita Shah,P003,USB-C Hub,Accessories,3,1850,12%,Debit Card,Completed
+SO0213,17-Apr-2026,C148,Mahesh Verma,Central,Indore,Rohan Verma,P020,External SSD 1TB,Electronics,3,7200,10%,Cash,Completed
+SO0170,17-Apr-2026,C082,Gunjan Pillai,North,Chandigarh,Neha Kapoor,P008,Power Bank,Electronics,2,1450,0%,UPI,Completed
+SO0116,17-Apr-2026,C043,Mohan Lahiri,South,Bengaluru,Priya Nair,P018,Whiteboard,Office Supplies,6,2400,3%,Debit Card,Completed
+SO0143,17-Apr-2026,C125,Aditya Mehta,East,Kolkata,Sourav Das,P012,Desk Lamp,Electronics,2,850,3%,Cash,Completed
+SO0053,17-Apr-2026,C028,Pranav Chowdhury,Central,Bhopal,Ananya Singh,P016,Laptop Bag,Accessories,2,1100,0%,UPI,Completed
+SO0490,18-Apr-2026,C090,Jaya Menon,East,Kolkata,Moumita Roy,P008,Power Bank,Electronics,8,1450,5%,Net Banking,Completed
+SO0519,18-Apr-2026,C102,Sayan Mitra,West,Mumbai,Karan Mehta,P016,Laptop Bag,Accessories,2,1100,8%,UPI,Completed
+SO0064,18-Apr-2026,C058,Pallavi Patel,East,Kolkata,Moumita Roy,P001,Wireless Mouse,Accessories,4,650,0%,Debit Card,Returned
+SO0054,19-Apr-2026,C119,Ayush Majumdar,South,Bengaluru,Rahul Menon,P002,Keyboard,Accessories,3,950,12%,Credit Card,Completed
+SO0173,19-Apr-2026,C118,Dibyendu Majumdar,North,Chandigarh,Aarav Sharma,P010,Office Chair,Furniture,1,6200,0%,Cash,Completed
+SO0494,20-Apr-2026,C053,Karan Ganguly,Central,Indore,Ananya Singh,P018,Whiteboard,Office Supplies,2,2400,3%,Net Banking,Completed
+SO0134,20-Apr-2026,C024,Abhishek Reddy,East,Guwahati,Moumita Roy,P012,Desk Lamp,Electronics,8,850,10%,UPI,Cancelled
+SO0047,21-Apr-2026,C130,Sameer Datta,North,Jaipur,Neha Kapoor,P020,External SSD 1TB,Electronics,2,7200,12%,Debit Card,Completed
+SO0090,21-Apr-2026,C006,Neha Menon,East,Guwahati,Moumita Roy,P001,Wireless Mouse,Accessories,1,650,10%,Cash,Completed
+SO0071,22-Apr-2026,C112,Rajat Roy,South,Hyderabad,Rahul Menon,P020,External SSD 1TB,Electronics,5,7200,8%,Net Banking,Completed
+SO0165,23-Apr-2026,C060,Sayantani Roy,North,Chandigarh,Neha Kapoor,P008,Power Bank,Electronics,8,1450,8%,Net Banking,Completed
+SO0153,23-Apr-2026,C019,Kaushik Chatterjee,North,Chandigarh,Neha Kapoor,P010,Office Chair,Furniture,5,6200,8%,Cash,Completed
+SO0303,23-Apr-2026,C009,Dinesh Sarkar,Central,Bhopal,Ananya Singh,P004,Laptop Stand,Accessories,4,1250,10%,Debit Card,Completed
+SO0430,24-Apr-2026,C027,Sumantra Bose,Central,Indore,Rohan Verma,P016,Laptop Bag,Accessories,2,1100,0%,UPI,Returned
+SO0123,24-Apr-2026,C016,Aditi Sen,West,Mumbai,Karan Mehta,P004,Laptop Stand,Accessories,10,1250,3%,Debit Card,Completed
+SO0038,24-Apr-2026,C140,Esha Ganguly,Central,Nagpur,Ananya Singh,P018,Whiteboard,Office Supplies,1,2400,0%,Credit Card,Cancelled
+SO0172,25-Apr-2026,C136,Aman Bhowmik,Central,Bhopal,Rohan Verma,P001,Wireless Mouse,Accessories,2,650,12%,Cash,Completed
+SO0184,25-Apr-2026,C112,Rajat Roy,Central,Nagpur,Ananya Singh,P006,Bluetooth Speaker,Electronics,4,2800,3%,Debit Card,Completed
+SO0056,25-Apr-2026,C134,Sohini Dasgupta,South,Hyderabad,Rahul Menon,P015,HDMI Cable,Accessories,2,350,0%,Debit Card,Completed
+SO0129,25-Apr-2026,C078,Riya Dutta,East,Guwahati,Sourav Das,P015,HDMI Cable,Accessories,3,350,8%,Cash,Completed
+SO0284,25-Apr-2026,C010,Hemant Saxena,Central,Indore,Ananya Singh,P018,Whiteboard,Office Supplies,3,2400,12%,Cash,Completed
+SO0456,25-Apr-2026,C138,Zainab Agarwal,West,Mumbai,Karan Mehta,P007,Headphones,Electronics,2,1750,0%,Credit Card,Cancelled
+SO0086,26-Apr-2026,C019,Kaushik Chatterjee,Central,Indore,Ananya Singh,P002,Keyboard,Accessories,1,950,10%,Net Banking,Completed
+SO0369,26-Apr-2026,C097,Ritu Ganguly,North,Delhi,Neha Kapoor,P001,Wireless Mouse,Accessories,2,650,0%,Credit Card,Completed
+SO0304,26-Apr-2026,C054,Tanya Patel,East,Bhubaneswar,Sourav Das,P015,HDMI Cable,Accessories,6,350,0%,Credit Card,Completed
+SO0406,26-Apr-2026,C034,Rakesh Kapoor,East,Kolkata,Sourav Das,P019,File Organizer,Office Supplies,4,420,5%,UPI,Completed
+SO0084,26-Apr-2026,C054,Tanya Patel,West,Pune,Karan Mehta,P010,Office Chair,Furniture,3,6200,0%,UPI,Completed
+SO0169,26-Apr-2026,C007,Uday Mishra,Central,Bhopal,Ananya Singh,P003,USB-C Hub,Accessories,8,1850,0%,Debit Card,Completed
+SO0526,26-Apr-2026,C054,Tanya Patel,West,Mumbai,Ishita Shah,P001,Wireless Mouse,Accessories,1,650,0%,UPI,Completed
+SO0099,27-Apr-2026,C018,Nikhil Roy,Central,Bhopal,Ananya Singh,P007,Headphones,Electronics,8,1750,8%,Credit Card,Completed
+SO0094,27-Apr-2026,C001,Rohan Shah,North,Chandigarh,Neha Kapoor,P011,Study Table,Furniture,1,7800,12%,Cash,Completed
+SO0130,28-Apr-2026,C019,Kaushik Chatterjee,North,Delhi,Neha Kapoor,P013,Printer,Electronics,2,8900,0%,Net Banking,Completed
+SO0110,29-Apr-2026,C041,Chirag Biswas,East,Bhubaneswar,Moumita Roy,P001,Wireless Mouse,Accessories,6,650,5%,Cash,Pending
+SO0242,29-Apr-2026,C029,Bikram Bhattacharya,Central,Indore,Ananya Singh,P008,Power Bank,Electronics,1,1450,3%,Credit Card,Completed
+SO0025,29-Apr-2026,C024,Abhishek Reddy,South,Bengaluru,Rahul Menon,P018,Whiteboard,Office Supplies,1,2400,10%,UPI,Returned
+SO0338,29-Apr-2026,C039,Kavita Prasad,East,Guwahati,Moumita Roy,P007,Headphones,Electronics,4,1750,8%,Credit Card,Completed
+SO0063,29-Apr-2026,C072,Manish Sinha,South,Bengaluru,Rahul Menon,P013,Printer,Electronics,2,8900,5%,Net Banking,Completed
+SO0254,30-Apr-2026,C026,Deepika Iyer,Central,Nagpur,Ananya Singh,P010,Office Chair,Furniture,2,6200,8%,Net Banking,Pending
+SO0089,30-Apr-2026,C011,Jasmin Datta,East,Guwahati,Moumita Roy,P009,Notebook Pack,Stationery,3,180,5%,Cash,Completed
+SO0255,01-May-2026,C005,Hiya Mukherjee,East,Kolkata,Moumita Roy,P011,Study Table,Furniture,2,7800,8%,Credit Card,Pending
+SO0325,01-May-2026,C130,Sameer Datta,North,Delhi,Aarav Sharma,P001,Wireless Mouse,Accessories,2,650,0%,Net Banking,Cancelled
+SO0252,03-May-2026,C123,Aarav Sharma,South,Chennai,Rahul Menon,P001,Wireless Mouse,Accessories,1,650,0%,UPI,Cancelled
+SO0476,04-May-2026,C053,Karan Ganguly,East,Kolkata,Sourav Das,P016,Laptop Bag,Accessories,1,1100,3%,UPI,Completed
+SO0112,04-May-2026,C006,Neha Menon,North,Delhi,Neha Kapoor,P019,File Organizer,Office Supplies,2,420,3%,Debit Card,Returned
+SO0532,04-May-2026,C003,Sreeja Bose,Central,Bhopal,Rohan Verma,P015,HDMI Cable,Accessories,2,350,5%,Debit Card,Completed
+SO0427,04-May-2026,C014,Lalit Banerjee,East,Guwahati,Moumita Roy,P005,Webcam,Electronics,5,2200,8%,Cash,Pending
+SO0574,04-May-2026,C064,Koyel Nair,Central,Bhopal,Ananya Singh,P013,Printer,Electronics,4,8900,0%,Cash,Completed
+SO0425,05-May-2026,C148,Mahesh Verma,North,Chandigarh,Neha Kapoor,P002,Keyboard,Accessories,1,950,10%,Cash,Completed
+SO0480,05-May-2026,C132,Deepak Singh,West,Ahmedabad,Ishita Shah,P017,Pen Set,Stationery,6,120,5%,UPI,Completed
+SO0548,05-May-2026,C035,Rupam Kundu,South,Chennai,Rahul Menon,P015,HDMI Cable,Accessories,4,350,0%,Debit Card,Completed
+SO0584,05-May-2026,C011,Jasmin Datta,Central,Nagpur,Rohan Verma,P006,Bluetooth Speaker,Electronics,1,2800,5%,UPI,Completed
+SO0057,05-May-2026,C139,Bidisha Menon,South,Chennai,Rahul Menon,P003,USB-C Hub,Accessories,4,1850,0%,Debit Card,Completed
+SO0373,06-May-2026,C123,Aarav Sharma,South,Bengaluru,Rahul Menon,P001,Wireless Mouse,Accessories,2,650,3%,Cash,Completed
+SO0236,06-May-2026,C015,Joy Gupta,North,Jaipur,Neha Kapoor,P002,Keyboard,Accessories,2,950,8%,Cash,Completed
+SO0451,06-May-2026,C134,Sohini Dasgupta,Central,Nagpur,Ananya Singh,P003,USB-C Hub,Accessories,5,1850,3%,Credit Card,Completed
+SO0121,07-May-2026,C108,Pooja Basu,North,Delhi,Aarav Sharma,P018,Whiteboard,Office Supplies,1,2400,5%,Cash,Completed
+SO0368,07-May-2026,C042,Pankaj Mishra,West,Pune,Karan Mehta,P004,Laptop Stand,Accessories,5,1250,12%,Credit Card,Pending
+SO0257,08-May-2026,C118,Dibyendu Majumdar,Central,Nagpur,Ananya Singh,P009,Notebook Pack,Stationery,4,180,5%,Net Banking,Cancelled
+SO0379,09-May-2026,C055,Gargi Prasad,Central,Nagpur,Rohan Verma,P004,Laptop Stand,Accessories,8,1250,5%,Credit Card,Completed
+SO0514,09-May-2026,C003,Sreeja Bose,East,Bhubaneswar,Sourav Das,P015,HDMI Cable,Accessories,10,350,10%,Debit Card,Completed
+SO0156,09-May-2026,C130,Sameer Datta,South,Bengaluru,Rahul Menon,P004,Laptop Stand,Accessories,5,1250,12%,UPI,Completed
+SO0594,09-May-2026,C050,Komal Thakur,Central,Indore,Ananya Singh,P006,Bluetooth Speaker,Electronics,5,2800,5%,Credit Card,Completed
+SO0245,09-May-2026,C078,Riya Dutta,East,Kolkata,Moumita Roy,P019,File Organizer,Office Supplies,3,420,10%,Credit Card,Completed
+SO0227,10-May-2026,C048,Uma Ghosh,West,Pune,Ishita Shah,P004,Laptop Stand,Accessories,2,1250,10%,Debit Card,Completed
+SO0572,10-May-2026,C122,Diya Mitra,North,Delhi,Neha Kapoor,P010,Office Chair,Furniture,5,6200,0%,UPI,Completed
+SO0400,10-May-2026,C047,Chaitali Kapoor,East,Kolkata,Sourav Das,P010,Office Chair,Furniture,1,6200,0%,Cash,Completed
+SO0192,11-May-2026,C147,Gaurav Thakur,South,Bengaluru,Priya Nair,P005,Webcam,Electronics,1,2200,5%,Cash,Completed
+SO0332,11-May-2026,C147,Gaurav Thakur,East,Kolkata,Moumita Roy,P019,File Organizer,Office Supplies,1,420,0%,UPI,Completed
+SO0012,11-May-2026,C017,Anupam Nair,West,Mumbai,Ishita Shah,P004,Laptop Stand,Accessories,1,1250,0%,Net Banking,Completed
+SO0302,11-May-2026,C011,Jasmin Datta,North,Jaipur,Aarav Sharma,P009,Notebook Pack,Stationery,5,180,12%,Cash,Returned
+SO0310,12-May-2026,C118,Dibyendu Majumdar,East,Guwahati,Moumita Roy,P015,HDMI Cable,Accessories,8,350,3%,UPI,Completed
+SO0598,13-May-2026,C049,Partha Iyer,Central,Indore,Rohan Verma,P018,Whiteboard,Office Supplies,2,2400,12%,UPI,Completed
+SO0477,13-May-2026,C027,Sumantra Bose,East,Bhubaneswar,Moumita Roy,P015,HDMI Cable,Accessories,6,350,0%,Debit Card,Returned
+SO0330,13-May-2026,C008,Omkar Rao,East,Kolkata,Moumita Roy,P005,Webcam,Electronics,4,2200,12%,UPI,Completed
+SO0291,13-May-2026,C048,Uma Ghosh,South,Hyderabad,Priya Nair,P011,Study Table,Furniture,3,7800,5%,Net Banking,Completed
+SO0276,14-May-2026,C017,Anupam Nair,South,Hyderabad,Rahul Menon,P006,Bluetooth Speaker,Electronics,1,2800,3%,Credit Card,Completed
+SO0176,15-May-2026,C065,Naveen Mehta,Central,Nagpur,Rohan Verma,P013,Printer,Electronics,6,8900,0%,Debit Card,Completed
+SO0217,15-May-2026,C124,Arpita Reddy,West,Pune,Ishita Shah,P015,HDMI Cable,Accessories,6,350,3%,Debit Card,Completed
+SO0144,15-May-2026,C055,Gargi Prasad,East,Kolkata,Sourav Das,P013,Printer,Electronics,10,8900,0%,Debit Card,Completed
+SO0528,15-May-2026,C080,Vivek Joshi,North,Delhi,Neha Kapoor,P020,External SSD 1TB,Electronics,1,7200,10%,Net Banking,Cancelled
+SO0149,15-May-2026,C030,Gopal Malhotra,North,Chandigarh,Neha Kapoor,P011,Study Table,Furniture,1,7800,12%,Cash,Completed
+SO0016,16-May-2026,C062,Arjun Kumar,North,Jaipur,Neha Kapoor,P016,Laptop Bag,Accessories,1,1100,3%,Debit Card,Pending
+SO0150,16-May-2026,C061,Aparna Paul,Central,Bhopal,Ananya Singh,P012,Desk Lamp,Electronics,4,850,12%,Credit Card,Completed
+SO0558,16-May-2026,C026,Deepika Iyer,North,Jaipur,Aarav Sharma,P010,Office Chair,Furniture,1,6200,0%,UPI,Cancelled
+SO0166,17-May-2026,C073,Mainak Sinha,South,Chennai,Rahul Menon,P007,Headphones,Electronics,2,1750,8%,Net Banking,Returned
+SO0457,17-May-2026,C027,Sumantra Bose,North,Jaipur,Aarav Sharma,P007,Headphones,Electronics,4,1750,12%,Net Banking,Completed
+SO0146,17-May-2026,C118,Dibyendu Majumdar,South,Hyderabad,Rahul Menon,P003,USB-C Hub,Accessories,2,1850,10%,UPI,Completed
+SO0033,18-May-2026,C073,Mainak Sinha,South,Hyderabad,Rahul Menon,P005,Webcam,Electronics,8,2200,0%,Debit Card,Pending
+SO0442,19-May-2026,C137,Wasim Chowdhury,East,Guwahati,Sourav Das,P012,Desk Lamp,Electronics,3,850,8%,Net Banking,Completed
+SO0550,20-May-2026,C042,Pankaj Mishra,East,Bhubaneswar,Moumita Roy,P009,Notebook Pack,Stationery,6,180,8%,Cash,Pending
+SO0580,20-May-2026,C097,Ritu Ganguly,Central,Indore,Ananya Singh,P020,External SSD 1TB,Electronics,4,7200,0%,UPI,Completed
+SO0061,20-May-2026,C104,Suman Mehta,Central,Bhopal,Ananya Singh,P008,Power Bank,Electronics,2,1450,5%,Debit Card,Completed
+SO0503,21-May-2026,C117,Eshani Dutta,East,Guwahati,Moumita Roy,P012,Desk Lamp,Electronics,8,850,3%,Credit Card,Completed
+SO0235,21-May-2026,C150,Trisha Verma,Central,Bhopal,Rohan Verma,P006,Bluetooth Speaker,Electronics,2,2800,8%,Credit Card,Completed
+SO0414,21-May-2026,C026,Deepika Iyer,East,Bhubaneswar,Sourav Das,P007,Headphones,Electronics,4,1750,10%,Net Banking,Completed
+SO0247,23-May-2026,C039,Kavita Prasad,West,Mumbai,Karan Mehta,P013,Printer,Electronics,5,8900,3%,Net Banking,Completed
+SO0118,23-May-2026,C150,Trisha Verma,East,Kolkata,Moumita Roy,P001,Wireless Mouse,Accessories,2,650,0%,Debit Card,Completed
+SO0075,23-May-2026,C104,Suman Mehta,South,Hyderabad,Rahul Menon,P016,Laptop Bag,Accessories,2,1100,0%,Credit Card,Completed
+SO0566,23-May-2026,C094,Sahil Bhowmik,Central,Nagpur,Rohan Verma,P004,Laptop Stand,Accessories,1,1250,3%,Debit Card,Completed
+SO0560,23-May-2026,C027,Sumantra Bose,West,Ahmedabad,Ishita Shah,P019,File Organizer,Office Supplies,2,420,5%,Net Banking,Completed
+SO0298,23-May-2026,C092,Meera Sarkar,South,Chennai,Rahul Menon,P005,Webcam,Electronics,1,2200,12%,UPI,Completed
+SO0535,24-May-2026,C057,Sanjay Prasad,West,Pune,Ishita Shah,P006,Bluetooth Speaker,Electronics,4,2800,10%,Net Banking,Completed
+SO0237,24-May-2026,C149,Vandana Iyer,West,Ahmedabad,Karan Mehta,P001,Wireless Mouse,Accessories,2,650,12%,Credit Card,Completed
+SO0426,25-May-2026,C064,Koyel Nair,South,Hyderabad,Rahul Menon,P017,Pen Set,Stationery,3,120,10%,Net Banking,Completed
+SO0563,25-May-2026,C115,Nilanjana Yadav,Central,Bhopal,Ananya Singh,P018,Whiteboard,Office Supplies,8,2400,3%,Net Banking,Completed
+SO0286,25-May-2026,C143,Rekha Saha,West,Pune,Karan Mehta,P004,Laptop Stand,Accessories,1,1250,3%,Cash,Completed
+SO0264,25-May-2026,C024,Abhishek Reddy,South,Hyderabad,Priya Nair,P010,Office Chair,Furniture,4,6200,12%,UPI,Completed
+SO0506,25-May-2026,C030,Gopal Malhotra,West,Mumbai,Karan Mehta,P015,HDMI Cable,Accessories,4,350,8%,Net Banking,Pending
+SO0424,26-May-2026,C124,Arpita Reddy,West,Mumbai,Karan Mehta,P012,Desk Lamp,Electronics,3,850,12%,Credit Card,Completed
+SO0306,26-May-2026,C075,Yusuf Bhattacharya,East,Guwahati,Moumita Roy,P020,External SSD 1TB,Electronics,3,7200,3%,Debit Card,Returned
+SO0469,26-May-2026,C071,Indrani Yadav,East,Bhubaneswar,Moumita Roy,P006,Bluetooth Speaker,Electronics,1,2800,0%,Net Banking,Completed
+SO0464,27-May-2026,C055,Gargi Prasad,Central,Indore,Rohan Verma,P010,Office Chair,Furniture,1,6200,10%,Debit Card,Pending
+SO0573,27-May-2026,C035,Rupam Kundu,North,Jaipur,Neha Kapoor,P009,Notebook Pack,Stationery,1,180,8%,Credit Card,Completed
+SO0307,27-May-2026,C071,Indrani Yadav,East,Guwahati,Sourav Das,P005,Webcam,Electronics,8,2200,12%,UPI,Completed
+SO0522,28-May-2026,C021,Zubin Biswas,Central,Nagpur,Rohan Verma,P010,Office Chair,Furniture,2,6200,10%,Net Banking,Completed
+SO0060,28-May-2026,C138,Zainab Agarwal,West,Pune,Ishita Shah,P012,Desk Lamp,Electronics,2,850,5%,Net Banking,Completed
+SO0006,28-May-2026,C060,Sayantani Roy,South,Hyderabad,Priya Nair,P002,Keyboard,Accessories,4,950,12%,UPI,Completed
+SO0569,28-May-2026,C059,Urmila Singh,West,Mumbai,Ishita Shah,P011,Study Table,Furniture,2,7800,12%,UPI,Completed
+SO0357,28-May-2026,C008,Omkar Rao,West,Pune,Ishita Shah,P006,Bluetooth Speaker,Electronics,1,2800,3%,Debit Card,Completed
+SO0287,29-May-2026,C039,Kavita Prasad,Central,Bhopal,Ananya Singh,P012,Desk Lamp,Electronics,2,850,12%,Cash,Completed
+SO0467,29-May-2026,C018,Nikhil Roy,West,Pune,Karan Mehta,P005,Webcam,Electronics,4,2200,0%,Cash,Completed
+SO0344,30-May-2026,C092,Meera Sarkar,North,Delhi,Aarav Sharma,P006,Bluetooth Speaker,Electronics,2,2800,3%,Cash,Completed
+SO0581,30-May-2026,C070,Nikita Kundu,Central,Bhopal,Ananya Singh,P006,Bluetooth Speaker,Electronics,1,2800,0%,Cash,Completed
+SO0567,30-May-2026,C020,Aarav Roy,South,Bengaluru,Rahul Menon,P010,Office Chair,Furniture,1,6200,5%,Credit Card,Completed
+SO0092,30-May-2026,C042,Pankaj Mishra,West,Ahmedabad,Karan Mehta,P003,USB-C Hub,Accessories,3,1850,5%,UPI,Completed
+SO0349,31-May-2026,C024,Abhishek Reddy,East,Kolkata,Sourav Das,P003,USB-C Hub,Accessories,1,1850,10%,Credit Card,Completed
+SO0122,31-May-2026,C056,Nisha Bose,South,Chennai,Priya Nair,P016,Laptop Bag,Accessories,3,1100,3%,Debit Card,Completed
+SO0305,31-May-2026,C016,Aditi Sen,East,Guwahati,Moumita Roy,P006,Bluetooth Speaker,Electronics,3,2800,12%,Credit Card,Completed
+SO0491,31-May-2026,C073,Mainak Sinha,Central,Bhopal,Ananya Singh,P005,Webcam,Electronics,2,2200,12%,UPI,Completed
+SO0479,31-May-2026,C089,Debolina Basu,North,Jaipur,Neha Kapoor,P013,Printer,Electronics,10,8900,0%,Debit Card,Completed
+SO0212,01-Jun-2026,C029,Bikram Bhattacharya,East,Guwahati,Moumita Roy,P019,File Organizer,Office Supplies,2,420,12%,Debit Card,Completed
+SO0198,01-Jun-2026,C011,Jasmin Datta,Central,Bhopal,Rohan Verma,P020,External SSD 1TB,Electronics,4,7200,8%,Cash,Completed
+SO0072,01-Jun-2026,C146,Aarohi Chowdhury,East,Bhubaneswar,Sourav Das,P003,USB-C Hub,Accessories,2,1850,5%,Net Banking,Completed
+SO0002,01-Jun-2026,C051,Kajal Basu,West,Mumbai,Ishita Shah,P003,USB-C Hub,Accessories,1,1850,8%,Cash,Completed
+SO0413,02-Jun-2026,C032,Shreya Mondal,North,Jaipur,Aarav Sharma,P001,Wireless Mouse,Accessories,1,650,0%,Net Banking,Completed
+SO0161,02-Jun-2026,C024,Abhishek Reddy,North,Chandigarh,Neha Kapoor,P011,Study Table,Furniture,5,7800,10%,Cash,Completed
+SO0278,02-Jun-2026,C098,Rohit Pillai,Central,Bhopal,Ananya Singh,P004,Laptop Stand,Accessories,1,1250,0%,Debit Card,Cancelled
+SO0487,02-Jun-2026,C130,Sameer Datta,Central,Bhopal,Rohan Verma,P013,Printer,Electronics,2,8900,0%,Cash,Completed
+SO0500,02-Jun-2026,C074,Vidya Gupta,North,Delhi,Neha Kapoor,P015,HDMI Cable,Accessories,1,350,12%,Cash,Completed
+SO0492,03-Jun-2026,C134,Sohini Dasgupta,Central,Indore,Ananya Singh,P007,Headphones,Electronics,1,1750,10%,Cash,Completed
+SO0365,04-Jun-2026,C061,Aparna Paul,East,Guwahati,Sourav Das,P019,File Organizer,Office Supplies,1,420,5%,UPI,Completed
+SO0036,04-Jun-2026,C065,Naveen Mehta,South,Hyderabad,Rahul Menon,P007,Headphones,Electronics,4,1750,12%,Net Banking,Completed
+SO0067,05-Jun-2026,C148,Mahesh Verma,Central,Nagpur,Rohan Verma,P006,Bluetooth Speaker,Electronics,8,2800,0%,Debit Card,Completed
+SO0008,05-Jun-2026,C057,Sanjay Prasad,South,Hyderabad,Priya Nair,P006,Bluetooth Speaker,Electronics,2,2800,3%,Cash,Returned
+SO0186,05-Jun-2026,C146,Aarohi Chowdhury,West,Mumbai,Ishita Shah,P003,USB-C Hub,Accessories,1,1850,10%,Net Banking,Completed
+SO0050,05-Jun-2026,C022,Mitali Sen,East,Bhubaneswar,Moumita Roy,P015,HDMI Cable,Accessories,4,350,8%,Credit Card,Completed
+SO0384,05-Jun-2026,C010,Hemant Saxena,West,Mumbai,Ishita Shah,P009,Notebook Pack,Stationery,2,180,8%,Net Banking,Completed
+SO0593,06-Jun-2026,C035,Rupam Kundu,South,Hyderabad,Priya Nair,P008,Power Bank,Electronics,4,1450,3%,Net Banking,Completed
+SO0295,06-Jun-2026,C022,Mitali Sen,West,Ahmedabad,Ishita Shah,P012,Desk Lamp,Electronics,2,850,5%,Debit Card,Completed
+SO0073,06-Jun-2026,C067,Moumita Singh,West,Pune,Ishita Shah,P016,Laptop Bag,Accessories,5,1100,0%,Debit Card,Completed
+SO0049,07-Jun-2026,C149,Vandana Iyer,Central,Indore,Ananya Singh,P018,Whiteboard,Office Supplies,5,2400,3%,Net Banking,Completed
+SO0175,07-Jun-2026,C018,Nikhil Roy,East,Kolkata,Moumita Roy,P006,Bluetooth Speaker,Electronics,4,2800,0%,Debit Card,Completed
+SO0577,07-Jun-2026,C040,Dev Malhotra,West,Ahmedabad,Ishita Shah,P015,HDMI Cable,Accessories,1,350,12%,Debit Card,Completed
+SO0407,07-Jun-2026,C137,Wasim Chowdhury,West,Ahmedabad,Karan Mehta,P013,Printer,Electronics,2,8900,5%,UPI,Completed
+SO0263,08-Jun-2026,C118,Dibyendu Majumdar,Central,Indore,Ananya Singh,P009,Notebook Pack,Stationery,5,180,0%,Net Banking,Completed
+SO0538,08-Jun-2026,C006,Neha Menon,West,Pune,Karan Mehta,P007,Headphones,Electronics,2,1750,0%,Cash,Completed
+SO0403,08-Jun-2026,C106,Vikas Kumar,North,Chandigarh,Aarav Sharma,P017,Pen Set,Stationery,1,120,10%,Debit Card,Completed
+SO0556,09-Jun-2026,C126,Ashish Agarwal,Central,Indore,Rohan Verma,P012,Desk Lamp,Electronics,1,850,10%,Credit Card,Completed
+SO0152,10-Jun-2026,C039,Kavita Prasad,West,Pune,Karan Mehta,P019,File Organizer,Office Supplies,3,420,8%,Debit Card,Completed
+SO0085,10-Jun-2026,C105,Swati Rao,South,Chennai,Priya Nair,P006,Bluetooth Speaker,Electronics,1,2800,8%,UPI,Completed
+SO0115,10-Jun-2026,C084,Vikram Bhowmik,North,Chandigarh,Neha Kapoor,P002,Keyboard,Accessories,3,950,10%,Debit Card,Completed
+SO0472,10-Jun-2026,C149,Vandana Iyer,North,Jaipur,Aarav Sharma,P001,Wireless Mouse,Accessories,5,650,10%,Cash,Completed
+SO0586,10-Jun-2026,C143,Rekha Saha,East,Kolkata,Moumita Roy,P002,Keyboard,Accessories,3,950,5%,UPI,Pending
+SO0200,10-Jun-2026,C117,Eshani Dutta,Central,Indore,Ananya Singh,P016,Laptop Bag,Accessories,1,1100,12%,Debit Card,Completed
+SO0524,11-Jun-2026,C075,Yusuf Bhattacharya,Central,Nagpur,Ananya Singh,P003,USB-C Hub,Accessories,1,1850,3%,Debit Card,Completed
+SO0434,12-Jun-2026,C028,Pranav Chowdhury,East,Guwahati,Moumita Roy,P004,Laptop Stand,Accessories,1,1250,0%,Net Banking,Completed
+SO0448,12-Jun-2026,C048,Uma Ghosh,East,Guwahati,Sourav Das,P007,Headphones,Electronics,2,1750,0%,UPI,Returned
+SO0498,12-Jun-2026,C057,Sanjay Prasad,North,Delhi,Aarav Sharma,P016,Laptop Bag,Accessories,8,1100,5%,Debit Card,Completed
+SO0311,12-Jun-2026,C083,Akash Jain,East,Kolkata,Moumita Roy,P007,Headphones,Electronics,8,1750,12%,Debit Card,Completed
+SO0001,13-Jun-2026,C023,Shubham Mukherjee,North,Delhi,Neha Kapoor,P008,Power Bank,Electronics,1,1450,10%,Cash,Completed
+SO0481,14-Jun-2026,C059,Urmila Singh,East,Kolkata,Sourav Das,P006,Bluetooth Speaker,Electronics,1,2800,8%,UPI,Completed
+SO0461,14-Jun-2026,C023,Shubham Mukherjee,Central,Bhopal,Rohan Verma,P003,USB-C Hub,Accessories,2,1850,8%,Debit Card,Completed
+SO0168,14-Jun-2026,C070,Nikita Kundu,West,Pune,Ishita Shah,P017,Pen Set,Stationery,5,120,3%,Credit Card,Completed
+SO0157,15-Jun-2026,C094,Sahil Bhowmik,South,Bengaluru,Priya Nair,P015,HDMI Cable,Accessories,10,350,8%,Credit Card,Completed
+SO0120,15-Jun-2026,C078,Riya Dutta,North,Jaipur,Neha Kapoor,P010,Office Chair,Furniture,3,6200,0%,UPI,Completed
+SO0323,15-Jun-2026,C136,Aman Bhowmik,North,Delhi,Neha Kapoor,P013,Printer,Electronics,1,8900,5%,UPI,Completed
+SO0162,15-Jun-2026,C125,Aditya Mehta,West,Ahmedabad,Karan Mehta,P001,Wireless Mouse,Accessories,2,650,0%,Debit Card,Cancelled
+SO0266,15-Jun-2026,C122,Diya Mitra,East,Guwahati,Sourav Das,P017,Pen Set,Stationery,6,120,0%,Cash,Completed
+SO0396,15-Jun-2026,C084,Vikram Bhowmik,Central,Nagpur,Ananya Singh,P010,Office Chair,Furniture,4,6200,5%,Debit Card,Completed
+SO0250,15-Jun-2026,C097,Ritu Ganguly,North,Chandigarh,Neha Kapoor,P003,USB-C Hub,Accessories,3,1850,12%,Debit Card,Completed
+SO0003,16-Jun-2026,C109,Utsav Mishra,Central,Indore,Rohan Verma,P015,HDMI Cable,Accessories,3,350,12%,Credit Card,Pending
+SO0363,16-Jun-2026,C076,Payal Jain,East,Kolkata,Moumita Roy,P008,Power Bank,Electronics,4,1450,12%,Debit Card,Completed
+SO0065,16-Jun-2026,C040,Dev Malhotra,North,Jaipur,Aarav Sharma,P001,Wireless Mouse,Accessories,8,650,0%,Cash,Completed
+SO0423,16-Jun-2026,C124,Arpita Reddy,South,Bengaluru,Priya Nair,P002,Keyboard,Accessories,10,950,12%,Net Banking,Completed
+SO0537,16-Jun-2026,C117,Eshani Dutta,Central,Indore,Ananya Singh,P007,Headphones,Electronics,5,1750,0%,UPI,Completed
+SO0371,17-Jun-2026,C105,Swati Rao,South,Hyderabad,Rahul Menon,P006,Bluetooth Speaker,Electronics,1,2800,3%,Credit Card,Completed
+SO0316,17-Jun-2026,C133,Anirban Paul,North,Jaipur,Aarav Sharma,P001,Wireless Mouse,Accessories,1,650,0%,Credit Card,Completed
+SO0570,17-Jun-2026,C039,Kavita Prasad,Central,Bhopal,Ananya Singh,P002,Keyboard,Accessories,2,950,0%,Cash,Completed
+SO0181,17-Jun-2026,C087,Yamini Reddy,East,Bhubaneswar,Sourav Das,P012,Desk Lamp,Electronics,2,850,5%,Net Banking,Completed
+SO0308,17-Jun-2026,C126,Ashish Agarwal,South,Hyderabad,Priya Nair,P008,Power Bank,Electronics,1,1450,3%,Net Banking,Completed
+SO0031,18-Jun-2026,C102,Sayan Mitra,Central,Nagpur,Ananya Singh,P009,Notebook Pack,Stationery,1,180,10%,Debit Card,Completed
+SO0113,18-Jun-2026,C128,Kabir Kapoor,West,Pune,Ishita Shah,P019,File Organizer,Office Supplies,6,420,12%,UPI,Completed
+SO0023,18-Jun-2026,C016,Aditi Sen,West,Pune,Karan Mehta,P014,Monitor 24 inch,Electronics,2,11200,10%,UPI,Completed
+SO0433,18-Jun-2026,C091,Tara Joshi,East,Guwahati,Moumita Roy,P004,Laptop Stand,Accessories,1,1250,10%,Debit Card,Completed
+SO0261,18-Jun-2026,C138,Zainab Agarwal,West,Mumbai,Ishita Shah,P018,Whiteboard,Office Supplies,3,2400,0%,Debit Card,Completed
+SO0095,18-Jun-2026,C114,Kunal Mukherjee,Central,Indore,Ananya Singh,P002,Keyboard,Accessories,1,950,3%,Net Banking,Completed
+SO0415,19-Jun-2026,C031,Aditi Bose,Central,Indore,Rohan Verma,P014,Monitor 24 inch,Electronics,5,11200,0%,Cash,Completed
+SO0485,19-Jun-2026,C057,Sanjay Prasad,East,Kolkata,Sourav Das,P015,HDMI Cable,Accessories,3,350,5%,Credit Card,Pending
+SO0398,19-Jun-2026,C104,Suman Mehta,East,Guwahati,Sourav Das,P001,Wireless Mouse,Accessories,4,650,3%,Net Banking,Completed
+SO0191,20-Jun-2026,C093,Nandini Kundu,East,Guwahati,Sourav Das,P018,Whiteboard,Office Supplies,3,2400,3%,Credit Card,Completed
+SO0055,20-Jun-2026,C141,Sujata Chatterjee,Central,Nagpur,Ananya Singh,P015,HDMI Cable,Accessories,3,350,10%,Net Banking,Pending
+SO0454,21-Jun-2026,C098,Rohit Pillai,East,Bhubaneswar,Sourav Das,P020,External SSD 1TB,Electronics,6,7200,0%,Debit Card,Cancelled
+SO0222,21-Jun-2026,C036,Titas Patel,Central,Bhopal,Rohan Verma,P002,Keyboard,Accessories,1,950,3%,UPI,Completed
+SO0466,21-Jun-2026,C051,Kajal Basu,Central,Bhopal,Ananya Singh,P018,Whiteboard,Office Supplies,1,2400,10%,UPI,Completed
+SO0333,22-Jun-2026,C094,Sahil Bhowmik,North,Delhi,Aarav Sharma,P002,Keyboard,Accessories,5,950,0%,Net Banking,Completed
+SO0251,22-Jun-2026,C056,Nisha Bose,Central,Nagpur,Rohan Verma,P003,USB-C Hub,Accessories,1,1850,12%,Cash,Completed
+SO0030,22-Jun-2026,C108,Pooja Basu,South,Chennai,Priya Nair,P019,File Organizer,Office Supplies,1,420,8%,UPI,Completed
+SO0283,22-Jun-2026,C019,Kaushik Chatterjee,West,Mumbai,Karan Mehta,P008,Power Bank,Electronics,2,1450,0%,Net Banking,Completed
+SO0296,22-Jun-2026,C131,Debjani Majumdar,South,Chennai,Priya Nair,P008,Power Bank,Electronics,2,1450,0%,Credit Card,Completed
+SO0091,22-Jun-2026,C047,Chaitali Kapoor,East,Guwahati,Sourav Das,P006,Bluetooth Speaker,Electronics,3,2800,10%,Debit Card,Completed
+SO0068,23-Jun-2026,C078,Riya Dutta,West,Pune,Ishita Shah,P003,USB-C Hub,Accessories,3,1850,12%,UPI,Completed
+SO0215,24-Jun-2026,C053,Karan Ganguly,South,Bengaluru,Priya Nair,P007,Headphones,Electronics,1,1750,3%,Net Banking,Completed
+SO0282,24-Jun-2026,C105,Swati Rao,Central,Bhopal,Ananya Singh,P007,Headphones,Electronics,2,1750,3%,UPI,Completed
+SO0014,24-Jun-2026,C129,Firoz Shah,Central,Indore,Ananya Singh,P004,Laptop Stand,Accessories,2,1250,0%,Debit Card,Completed
+SO0401,24-Jun-2026,C085,Raj Das,East,Guwahati,Sourav Das,P008,Power Bank,Electronics,2,1450,10%,Net Banking,Pending
+SO0234,24-Jun-2026,C016,Aditi Sen,Central,Bhopal,Ananya Singh,P017,Pen Set,Stationery,4,120,0%,UPI,Pending
+SO0317,24-Jun-2026,C123,Aarav Sharma,West,Mumbai,Ishita Shah,P011,Study Table,Furniture,5,7800,12%,Credit Card,Completed
+SO0009,25-Jun-2026,C146,Aarohi Chowdhury,East,Kolkata,Sourav Das,P002,Keyboard,Accessories,5,950,5%,Credit Card,Completed
+SO0069,25-Jun-2026,C088,Aditya Patel,Central,Bhopal,Rohan Verma,P012,Desk Lamp,Electronics,3,850,10%,Cash,Completed
+SO0488,25-Jun-2026,C129,Firoz Shah,West,Mumbai,Ishita Shah,P006,Bluetooth Speaker,Electronics,3,2800,8%,Cash,Completed
+SO0087,25-Jun-2026,C037,Aishwarya Rao,South,Chennai,Priya Nair,P014,Monitor 24 inch,Electronics,1,11200,0%,Debit Card,Completed
+SO0078,26-Jun-2026,C073,Mainak Sinha,South,Bengaluru,Priya Nair,P016,Laptop Bag,Accessories,2,1100,8%,Cash,Returned
+SO0322,26-Jun-2026,C076,Payal Jain,North,Jaipur,Neha Kapoor,P007,Headphones,Electronics,3,1750,8%,Net Banking,Completed
+SO0314,26-Jun-2026,C065,Naveen Mehta,South,Hyderabad,Rahul Menon,P006,Bluetooth Speaker,Electronics,6,2800,3%,Debit Card,Completed
+SO0019,26-Jun-2026,C116,Aishwarya Mishra,South,Hyderabad,Rahul Menon,P013,Printer,Electronics,10,8900,10%,Cash,Completed
+SO0076,27-Jun-2026,C085,Raj Das,South,Chennai,Rahul Menon,P016,Laptop Bag,Accessories,3,1100,3%,Cash,Completed
+SO0438,27-Jun-2026,C130,Sameer Datta,Central,Bhopal,Rohan Verma,P004,Laptop Stand,Accessories,2,1250,8%,Debit Card,Completed
+SO0409,27-Jun-2026,C012,Harish Mitra,East,Bhubaneswar,Sourav Das,P004,Laptop Stand,Accessories,2,1250,8%,UPI,Completed
+SO0372,28-Jun-2026,C141,Sujata Chatterjee,Central,Nagpur,Ananya Singh,P010,Office Chair,Furniture,2,6200,0%,Cash,Completed
+SO0328,28-Jun-2026,C015,Joy Gupta,West,Ahmedabad,Ishita Shah,P002,Keyboard,Accessories,1,950,5%,Cash,Completed
+SO0541,28-Jun-2026,C121,Sourav Sen,North,Chandigarh,Aarav Sharma,P005,Webcam,Electronics,1,2200,12%,Cash,Completed
+SO0232,30-Jun-2026,C123,Aarav Sharma,East,Guwahati,Sourav Das,P010,Office Chair,Furniture,2,6200,0%,Credit Card,Completed
+SO0362,30-Jun-2026,C125,Aditya Mehta,West,Ahmedabad,Ishita Shah,P011,Study Table,Furniture,2,7800,0%,Net Banking,Returned
+SO0358,30-Jun-2026,C139,Bidisha Menon,East,Guwahati,Sourav Das,P019,File Organizer,Office Supplies,8,420,12%,Net Banking,Returned
+SO0478,30-Jun-2026,C094,Sahil Bhowmik,Central,Nagpur,Ananya Singh,P009,Notebook Pack,Stationery,3,180,8%,Net Banking,Completed
+SO0293,30-Jun-2026,C094,Sahil Bhowmik,South,Bengaluru,Rahul Menon,P003,USB-C Hub,Accessories,3,1850,12%,Credit Card,Pending
