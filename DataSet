@@ -1,4 +1,0 @@
-### Sales Raw Data
-
-This sheet contains the raw transactional data of a fictional retail business, covering the period from January to June 2026. It consists of 600 sales records capturing order details, customer information, product details, regional data, salesperson information, quantity, unit price, discount rate, payment mode and order status.
-The dataset serves as the primary data source for the Sales MIS project. It is used for data cleaning, validation, sales calculations and generating daily, monthly, product-wise, region-wise and salesperson-wise performance reports.
